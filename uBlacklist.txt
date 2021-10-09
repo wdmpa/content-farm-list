@@ -751,6 +751,7 @@
 *://*.80jep4o.cn/*
 *://*.8107778.com/*
 *://*.81823333.com/*
+*://*.81jmb.com/*
 *://*.81jmqz.com/*
 *://*.81pics.com/*
 *://*.81zbp.cn/*
@@ -1125,6 +1126,7 @@
 *://*.beijingwm.com/*
 *://*.beimaisi.com/*
 *://*.beitetuwen.com/*
+*://*.beiyi168.com/*
 *://*.bellevue-house.buzz/*
 *://*.belligerency.buzz/*
 *://*.bellsphoto.buzz/*
@@ -1241,6 +1243,7 @@
 *://*.brxvhhj.cn/*
 *://*.bry9.com/*
 *://*.bs518.cn/*
+*://*.bslyxh.com/*
 *://*.bsnhhome.com/*
 *://*.bss369.com/*
 *://*.bsxing.com/*
@@ -1408,6 +1411,7 @@
 *://*.clothw.com/*
 *://*.cloudsos.com.cn/*
 *://*.clqcqz.com/*
+*://*.clwdd.com/*
 *://*.cm7w0uj.cn/*
 *://*.cmbhjz1.cn/*
 *://*.cmegxmx.cn/*
@@ -1669,6 +1673,7 @@
 *://*.dsafasff.cn/*
 *://*.dscswl8.com/*
 *://*.dsevr.com/*
+*://*.dsfyzx.com/*
 *://*.dsj51.com/*
 *://*.dsjhd2.cn/*
 *://*.du4rg35.cn/*
@@ -1744,6 +1749,7 @@
 *://*.eecpvx.cn/*
 *://*.efdplwh.cn/*
 *://*.egnmbjy.cn/*
+*://*.ego19.com/*
 *://*.ehaok.cn/*
 *://*.ehgr.cn/*
 *://*.eia6.com/*
@@ -2325,6 +2331,7 @@
 *://*.hlt666.com/*
 *://*.hm3v5g.cn/*
 *://*.hmalpha.com/*
+*://*.hmjg88.com/*
 *://*.hmm8.cn/*
 *://*.hmsagwq.cn/*
 *://*.hmyecrk.cn/*
@@ -2360,6 +2367,7 @@
 *://*.hoosong.com/*
 *://*.horny-world.buzz/*
 *://*.host5778.com/*
+*://*.hosty.cc/*
 *://*.hotel-britannic.buzz/*
 *://*.hotsync.cn/*
 *://*.houtaiyun.com/*
@@ -2374,6 +2382,7 @@
 *://*.hrblongtai.com/*
 *://*.hrbsybz.com/*
 *://*.hrr8.cn/*
+*://*.hrs24.buzz/*
 *://*.hrsj1688.com/*
 *://*.hrsmc.cn/*
 *://*.hrssqj.cn/*
@@ -2794,6 +2803,7 @@
 *://*.jxqlgg.com/*
 *://*.jxshenyi.com/*
 *://*.jyguolin.com/*
+*://*.jyhtylsb.com/*
 *://*.jykexin.com/*
 *://*.jy-mte.cn/*
 *://*.jywlife.com/*
@@ -2855,6 +2865,7 @@
 *://*.kgn8.cn/*
 *://*.kgr8.cn/*
 *://*.kgx8.cn/*
+*://*.khkxbs.com/*
 *://*.khocc05.cn/*
 *://*.kibristarihi.buzz/*
 *://*.kingkarltv.com/*
@@ -2874,6 +2885,7 @@
 *://*.klk8.cn/*
 *://*.klmnv.cn/*
 *://*.klqcw.cn/*
+*://*.klt88.com/*
 *://*.km67.cn/*
 *://*.kmbiyouhz.com/*
 *://*.kmbvpjo.cn/*
@@ -2884,9 +2896,11 @@
 *://*.kmljiaju.com/*
 *://*.kmlspf.com/*
 *://*.kmmjl.com/*
+*://*.kmnyhfmy.com/*
 *://*.kmtcjs.com/*
 *://*.kn33xs5.cn/*
 *://*.knerq0l.cn/*
+*://*.knijpkat.com/*
 *://*.knkkn.com/*
 *://*.knrpx7t.cn/*
 *://*.kntcm.com/*
@@ -3088,6 +3102,7 @@
 *://*.lootqyo.cn/*
 *://*.lopwp.cn/*
 *://*.lotus-hotel.cn/*
+*://*.louewer.com/*
 *://*.lovegraco.cn/*
 *://*.lovesan33.cn/*
 *://*.loveuherbs.com/*
@@ -3135,6 +3150,7 @@
 *://*.lutonjixie.com/*
 *://*.luxifeier.com/*
 *://*.luxuewang.com/*
+*://*.lvhuagc.com/*
 *://*.lvtu78.com/*
 *://*.lvyoucloud.com/*
 *://*.lvzhg.com/*
@@ -3200,6 +3216,7 @@
 *://*.mapxl.buzz/*
 *://*.maqima.com/*
 *://*.mariaswebdesign.buzz/*
+*://*.matbakhe.com/*
 *://*.matsa168.com/*
 *://*.mauhtcw.cn/*
 *://*.mavupzk.cn/*
@@ -3444,6 +3461,7 @@
 *://*.njzhimeng.com/*
 *://*.njzuyud.cn/*
 *://*.nk3ielk.cn/*
+*://*.nk40.com/*
 *://*.nl38.cn/*
 *://*.nl85ob0.cn/*
 *://*.nladuktg.cn/*
@@ -4387,6 +4405,7 @@
 *://*.taotao988.com/*
 *://*.taoxingyou.com/*
 *://*.tasarikurkmod.buzz/*
+*://*.tatcdz.com/*
 *://*.tatest.cn/*
 *://*.tauckbridges.buzz/*
 *://*.tazmw.com/*
@@ -4441,7 +4460,9 @@
 *://*.tianjin28.cn/*
 *://*.tiansenzhiye.cn/*
 *://*.tiantianyao.cn/*
+*://*.tianxiush.com/*
 *://*.tianxkj.com/*
+*://*.tianye888.com/*
 *://*.tianyusky.cn/*
 *://*.tigotool.com/*
 *://*.tiinon.com/*
@@ -4466,6 +4487,7 @@
 *://*.tjyyds.com/*
 *://*.tjyzwj.cn/*
 *://*.tjzzedu.com/*
+*://*.tkjt999.com/*
 *://*.tklefpe.cn/*
 *://*.tlbbqq.com/*
 *://*.tlgg666.com/*
@@ -4643,6 +4665,7 @@
 *://*.vatstca.cn/*
 *://*.vaw3ti9.cn/*
 *://*.vcepo9s.cn/*
+*://*.vdai88.com/*
 *://*.vdohuwai.com/*
 *://*.veqwwe.cn/*
 *://*.versionfemme.buzz/*
@@ -4945,6 +4968,7 @@
 *://*.xc0592.com/*
 *://*.xccanyin.cn/*
 *://*.xcdmjd.com/*
+*://*.xchxkj.com/*
 *://*.xcnodu.cn/*
 *://*.xcsxkrr.cn/*
 *://*.xczone.cn/*
@@ -5170,6 +5194,7 @@
 *://*.ydzgw.com/*
 *://*.yeddaxuan.com/*
 *://*.yehua9519.cn/*
+*://*.yfdhw.com/*
 *://*.yfpy3yj.cn/*
 *://*.yfvoya6.cn/*
 *://*.yfw50db.cn/*
@@ -5450,6 +5475,7 @@
 *://*.zj4u.cn/*
 *://*.zjdsjj.com/*
 *://*.zjhzmj.com/*
+*://*.zjhzyt.com/*
 *://*.zjjbjjtq.com/*
 *://*.zjjiangbei.com/*
 *://*.zjjint.com/*
