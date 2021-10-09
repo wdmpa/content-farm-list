@@ -1428,6 +1428,7 @@
 *://*.cqcpcy.com/*
 *://*.cqdflled.com/*
 *://*.cqdjjdsb.com/*
+*://*.cqdongyu.com/*
 *://*.cqhlxf.com/*
 *://*.cqjfb315.com/*
 *://*.cqkysjc.com/*
@@ -1636,6 +1637,7 @@
 *://*.dunimd.com/*
 *://*.duosf.org.cn/*
 *://*.duqingming.com/*
+*://*.durenzhe.com/*
 *://*.dushiqy.com/*
 *://*.dvscc3x.cn/*
 *://*.dw62842.cn/*
@@ -2364,6 +2366,7 @@
 *://*.huouxgk.cn/*
 *://*.huozangchang.cn/*
 *://*.huseyinozyurtcu.buzz/*
+*://*.hwadv.com/*
 *://*.hwgcsqr.cn/*
 *://*.hwtpdji.cn/*
 *://*.hwurvke.cn/*
@@ -2641,6 +2644,7 @@
 *://*.jnjyyz.com/*
 *://*.jnqsbz.com/*
 *://*.jntgzsg.cn/*
+*://*.jnzcyl.com/*
 *://*.jnzczdh.com/*
 *://*.jnzffz.com/*
 *://*.job00531.cn/*
@@ -2795,6 +2799,7 @@
 *://*.kjk8.cn/*
 *://*.kjoutij.cn/*
 *://*.kkaitang.com/*
+*://*.kkkdv.com/*
 *://*.kkrxc15.cn/*
 *://*.klk8.cn/*
 *://*.klmnv.cn/*
@@ -2958,6 +2963,7 @@
 *://*.lirenfs.com/*
 *://*.lirmaxi.cn/*
 *://*.lisa-boyle.buzz/*
+*://*.lishixiang.com/*
 *://*.liugushan.com/*
 *://*.liuhuohuyu.com/*
 *://*.liuhyshow.com/*
@@ -3712,6 +3718,7 @@
 *://*.qm71.cn/*
 *://*.qmfksm.com/*
 *://*.qmhl888.com/*
+*://*.qmisdhpe.com/*
 *://*.qmq1au.cn/*
 *://*.qmsht.cn/*
 *://*.qnb8.cn/*
@@ -4005,6 +4012,7 @@
 *://*.shantonggw.com/*
 *://*.shaofeisi.com/*
 *://*.shayaquan.com/*
+*://*.shayujiao.com/*
 *://*.shblsygs.com/*
 *://*.shdaisy.com/*
 *://*.shdsn118.com/*
@@ -4121,6 +4129,7 @@
 *://*.sprache.buzz/*
 *://*.spwomei.com/*
 *://*.sq5cpta.cn/*
+*://*.sqbqzs.com/*
 *://*.sqf2a4r.cn/*
 *://*.sqn8.cn/*
 *://*.sr0lsgr.cn/*
@@ -4224,6 +4233,7 @@
 *://*.szmobo.com/*
 *://*.szmyol.com/*
 *://*.szo0t2.cn/*
+*://*.szpzled.com/*
 *://*.szrpf.com/*
 *://*.szskcw.com/*
 *://*.szvch.com/*
@@ -4360,6 +4370,7 @@
 *://*.tokp2wz.cn/*
 *://*.tokyominer.com/*
 *://*.tonghejiu.com/*
+*://*.tongpixie.com/*
 *://*.tongxinr.com/*
 *://*.toolseer.com/*
 *://*.top0718.com/*
@@ -4396,6 +4407,7 @@
 *://*.tthzhk1.cn/*
 *://*.ttiits.cn/*
 *://*.ttyiyuan.com/*
+*://*.ttzhufu.com/*
 *://*.tuconsultor.buzz/*
 *://*.tudou478.cn/*
 *://*.tuwends.com/*
