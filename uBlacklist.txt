@@ -2956,6 +2956,7 @@
 *://*.maiweichi.com/*
 *://*.malilian.cn/*
 *://*.mall0530.com/*
+*://*.mall0837.com/*
 *://*.mallarrow.com/*
 *://*.mallpp.cn/*
 *://*.malujn.cn/*
