@@ -5579,5 +5579,3 @@
 .zzzhtrade.com
 .zzzxmryy.com
 .zzzysy.com
-*://118.193.38.103
-*://18.141.160.82
