@@ -1794,6 +1794,7 @@
 *://*.devk-agentur.buzz/*
 *://*.deyu1688.com/*
 *://*.dfjdtz.com/*
+*://*.dfrzlc.com/*
 *://*.dg4567.com/*
 *://*.dgcxjsy.com/*
 *://*.dgdaheng.cn/*
@@ -5517,6 +5518,7 @@
 *://*.wxqns.com/*
 *://*.wxsfyg.com/*
 *://*.wxsmdsz.com/*
+*://*.wxszyw.com/*
 *://*.wxtdbxgzp.com/*
 *://*.wxtp8.com/*
 *://*.wxtxtm.com/*
@@ -5900,6 +5902,7 @@
 *://*.ynjjjz.com/*
 *://*.ynkmjymy.cn/*
 *://*.ynly289.com/*
+*://*.ynlzyy.com/*
 *://*.ynstkj.cn/*
 *://*.ynwtj7u.cn/*
 *://*.ynyunyuan.com/*

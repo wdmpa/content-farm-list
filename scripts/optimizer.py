@@ -42,7 +42,7 @@ def read_file(fname, pattern):
     with open('../' + fname) as f:
         for line in f.readlines():
             m = re.match(pattern, line)
-            if len(m.groups()) > 0:
+            if m and len(m.groups()) > 0:
                 domains.append(m.group(1))
             pass
         pass
@@ -62,7 +62,7 @@ def write_file(fname, domains, wrapper):
 
 
 def read_ublacklist():
-    return read_file('uBlacklist.txt', r'\*://(?:\*\.)?(\S*)/\*')
+    return read_file('uBlacklist.txt', r'^\*://(?:\*\.)?([\w\-\.]+)/\*')
 
 
 def write_ublacklist(domains):
@@ -71,7 +71,7 @@ def write_ublacklist(domains):
 
 
 def read_surge():
-    return read_file('uBlacklist-Surge.txt', r'(?:\.)?(\S*)')
+    return read_file('uBlacklist-Surge.txt', r'^(?:\.)?([\w\-\.]+)')
 
 
 def write_surge(domains):
