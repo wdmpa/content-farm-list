@@ -1,6 +1,7 @@
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.006xb.cn/*
+*://*.007-security.buzz/*
 *://*.007ly3e.cn/*
 *://*.007sx.cn/*
 *://*.0086cnc.com/*
@@ -1637,6 +1638,7 @@
 *://*.clairvoyantsoftware.buzz/*
 *://*.cldh8.com/*
 *://*.clearday.cn/*
+*://*.clggz.net/*
 *://*.clothw.com/*
 *://*.cloudsos.com.cn/*
 *://*.clqcqz.com/*
@@ -1888,6 +1890,7 @@
 *://*.didibeile.com/*
 *://*.didong100.com/*
 *://*.digital-mouse.buzz/*
+*://*.digital-transfers.buzz/*
 *://*.dingzhi6.com/*
 *://*.diollarrentacar.buzz/*
 *://*.dioys.com/*
@@ -2665,6 +2668,7 @@
 *://*.hgvzs.com/*
 *://*.hgx77.cn/*
 *://*.hh013jt.cn/*
+*://*.hhbuyi.com/*
 *://*.hhfumeijia.com/*
 *://*.hhfvhm.cn/*
 *://*.hhmieshu.com/*
@@ -3829,6 +3833,7 @@
 *://*.movieproducer.cn/*
 *://*.moviescome.com/*
 *://*.mowangpapa.com/*
+*://*.moxisq.com/*
 *://*.mozartkuss.buzz/*
 *://*.mozhimi.com/*
 *://*.mp3rss.cn/*
@@ -4395,6 +4400,7 @@
 *://*.qg27.cn/*
 *://*.qg67.cn/*
 *://*.qh15.cn/*
+*://*.qhcbg.com/*
 *://*.qhcmjy.com/*
 *://*.qhddns.com/*
 *://*.qhdmitu.com/*
@@ -4890,6 +4896,7 @@
 *://*.skyboxconsult.buzz/*
 *://*.skyeason.com/*
 *://*.skyeyworld.com/*
+*://*.skype-keishin.buzz/*
 *://*.sl85n86.cn/*
 *://*.slatersteel.buzz/*
 *://*.slco2.com/*
@@ -4925,6 +4932,7 @@
 *://*.soumeiyi.com/*
 *://*.southprong.buzz/*
 *://*.soyocm.cn/*
+*://*.spfsp.com/*
 *://*.spidertpe.com/*
 *://*.spinsock.buzz/*
 *://*.spirit-webdesign.buzz/*
@@ -4959,6 +4967,7 @@
 *://*.sszyqz.com/*
 *://*.st89.cn/*
 *://*.stanaback.buzz/*
+*://*.star-walk.buzz/*
 *://*.star0s.com/*
 *://*.state-savings.buzz/*
 *://*.stayhomebiz.buzz/*
@@ -5106,6 +5115,7 @@
 *://*.tatcdz.com/*
 *://*.tatest.cn/*
 *://*.tauckbridges.buzz/*
+*://*.tauckvacations4less.buzz/*
 *://*.tazmw.com/*
 *://*.tb590.com/*
 *://*.tb67.cn/*
@@ -5160,6 +5170,7 @@
 *://*.threeooo.com/*
 *://*.thruo2r.cn/*
 *://*.thxdtsx.cn/*
+*://*.thy2jk.cn/*
 *://*.ti290.com/*
 *://*.tianhaoig.com/*
 *://*.tianheyy.cn/*
@@ -5239,6 +5250,7 @@
 *://*.tpw4qed.cn/*
 *://*.tqlq6b6.cn/*
 *://*.trafficonline.cn/*
+*://*.traumland-musik.buzz/*
 *://*.treeprice.cn/*
 *://*.trenzundpartner.buzz/*
 *://*.trhjjnkj.com/*
@@ -5284,6 +5296,7 @@
 *://*.txagr.com/*
 *://*.txeendx.buzz/*
 *://*.txy1996.com/*
+*://*.ty52fo.cn/*
 *://*.tybyaf.com/*
 *://*.tydhky.com/*
 *://*.tyestate.com.cn/*
@@ -5342,6 +5355,7 @@
 *://*.unsfunnfifxa.buzz/*
 *://*.uo4kuj1.cn/*
 *://*.up3600.com/*
+*://*.upin888.com/*
 *://*.uplogmd.cn/*
 *://*.upucan.com/*
 *://*.upweibo.com/*
@@ -5525,6 +5539,7 @@
 *://*.weidujt.com/*
 *://*.weiji100.com/*
 *://*.weilai-shop.cn/*
+*://*.weilan9.com/*
 *://*.weilong518.cn/*
 *://*.weimeixl.com/*
 *://*.weimintiyu.com/*
@@ -6397,6 +6412,7 @@
 *://*.zydmsh.com/*
 *://*.zyf2008.com/*
 *://*.zyfkz.com/*
+*://*.zyggs.com/*
 *://*.zygxccy.com/*
 *://*.zyjt618.com/*
 *://*.zyk04wz.cn/*
