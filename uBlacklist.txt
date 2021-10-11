@@ -1,4 +1,3 @@
-*://*.ydtg888.com/*
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.006xb.cn/*
@@ -71,6 +70,7 @@
 *://*.061922.com/*
 *://*.062155.cn/*
 *://*.0713ad.com/*
+*://*.0713dh.com/*
 *://*.0719da.com/*
 *://*.0730668.com/*
 *://*.0731td.com/*
@@ -1094,6 +1094,7 @@
 *://*.ankzp0v.cn/*
 *://*.anlisy.com/*
 *://*.anmadradubh.buzz/*
+*://*.anmo1.com/*
 *://*.anningbaby.com/*
 *://*.anonymous-proxy.buzz/*
 *://*.anonymousjuice.buzz/*
@@ -2695,6 +2696,7 @@
 *://*.hsnilong.com/*
 *://*.hsqlgm.com/*
 *://*.hsqxia005.cn/*
+*://*.hstcfw.com/*
 *://*.hsxjzxh.com/*
 *://*.hsxlmj.com/*
 *://*.hsyinfo.com/*
@@ -2983,6 +2985,7 @@
 *://*.jibv.cn/*
 *://*.jiedaw.cn/*
 *://*.jieshikj.com/*
+*://*.jietouxzz.com/*
 *://*.jiewanju.com/*
 *://*.jifutang68.com/*
 *://*.jijisf.com/*
@@ -3014,6 +3017,7 @@
 *://*.jiutaihao.com/*
 *://*.jj249.cn/*
 *://*.jjgw86.com/*
+*://*.jjkangdi.com/*
 *://*.jjs8.cn/*
 *://*.jjvtkbeq.cn/*
 *://*.jjy9.com/*
@@ -3115,6 +3119,7 @@
 *://*.jumeistone.com/*
 *://*.junan88.cn/*
 *://*.junjumall.com/*
+*://*.juqingtang.com/*
 *://*.jus065o.cn/*
 *://*.jushengseo.com/*
 *://*.juwymg.cn/*
@@ -3262,7 +3267,9 @@
 *://*.koon4.cn/*
 *://*.kos5bcz.cn/*
 *://*.kozykatskorner.buzz/*
+*://*.kpgbq.com/*
 *://*.kpk91o0.cn/*
+*://*.kpraise.com/*
 *://*.kq68.cn/*
 *://*.kq82.cn/*
 *://*.kqotjjer.cn/*
@@ -4001,6 +4008,7 @@
 *://*.om00ibj.cn/*
 *://*.omerdesser.buzz/*
 *://*.omsri.cn/*
+*://*.omz666.com/*
 *://*.onebea.com/*
 *://*.oneworld99.com/*
 *://*.ongetpi.cn/*
@@ -4081,6 +4089,7 @@
 *://*.pd4xe56.cn/*
 *://*.pdhecqg.cn/*
 *://*.pdsqldz.com/*
+*://*.pdsrjgs.com/*
 *://*.pe4u73j.cn/*
 *://*.peacereb.buzz/*
 *://*.pehw.cn/*
@@ -4283,6 +4292,7 @@
 *://*.qinianqing.com/*
 *://*.qiruigou.com/*
 *://*.qishh.com/*
+*://*.qitianjk.com/*
 *://*.qiukaineng.com/*
 *://*.qiuqing550.cn/*
 *://*.qiuyueseed.com/*
@@ -4586,6 +4596,7 @@
 *://*.scshzy.cn/*
 *://*.scswv.com/*
 *://*.scsz1975.com/*
+*://*.scwc028.com/*
 *://*.scxcsports.com/*
 *://*.scxsa.com/*
 *://*.scxsygy.com/*
@@ -5001,6 +5012,7 @@
 *://*.thhsc.com/*
 *://*.thnmjjrxh.com/*
 *://*.thooinc.com/*
+*://*.threeooo.com/*
 *://*.thruo2r.cn/*
 *://*.thxdtsx.cn/*
 *://*.ti290.com/*
@@ -5186,6 +5198,7 @@
 *://*.upweibo.com/*
 *://*.upyyagsl.cn/*
 *://*.urgnkky.cn/*
+*://*.urontz.com/*
 *://*.usa135.com/*
 *://*.usachinatech.buzz/*
 *://*.usbmaker.cn/*
@@ -5817,6 +5830,7 @@
 *://*.ydbiaoxi.com/*
 *://*.ydhbtlc.com/*
 *://*.ydjvxmh.cn/*
+*://*.ydtg888.com/*
 *://*.ydzgw.com/*
 *://*.yeddaxuan.com/*
 *://*.yehua9519.cn/*
@@ -6258,17 +6272,3 @@
 *://*.zzzhtrade.com/*
 *://*.zzzxmryy.com/*
 *://*.zzzysy.com/*
-*://*.kpgbq.com/*
-*://*.www.juqingtang.com/*
-*://*.www.anmo1.com/*
-*://*.0713dh.com/*
-*://*.www.jjkangdi.com/*
-*://*.www.kpraise.com/*
-*://*.jietouxzz.com/*
-*://*.www.threeooo.com/*
-*://*.hstcfw.com/*
-*://*.www.scwc028.com/*
-*://*.omz666.com/*
-*://*.qitianjk.com/*
-*://*.www.urontz.com/*
-*://*.pdsrjgs.com/*
