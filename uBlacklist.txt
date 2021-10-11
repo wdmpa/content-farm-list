@@ -1202,6 +1202,7 @@
 *://*.bkmhgc0.cn/*
 *://*.bl8t0xj.cn/*
 *://*.bldautob.com/*
+*://*.bldygs.com/*
 *://*.blehytter.buzz/*
 *://*.bljt1x2.cn/*
 *://*.blom7o0.cn/*
@@ -1695,6 +1696,7 @@
 *://*.duosf.org.cn/*
 *://*.duqingming.com/*
 *://*.durenzhe.com/*
+*://*.dushi0375.com/*
 *://*.dushiqy.com/*
 *://*.dvscc3x.cn/*
 *://*.dw218.com/*
@@ -3083,6 +3085,7 @@
 *://*.liveidc.cn/*
 *://*.liyacxq.com/*
 *://*.liyazy.com/*
+*://*.lizigirl.com/*
 *://*.lizrq.cn/*
 *://*.ljhlzxxx.com/*
 *://*.ljjksgv.cn/*
@@ -3772,6 +3775,7 @@
 *://*.pxkrugz.cn/*
 *://*.pxlfdd.com/*
 *://*.pxp8.cn/*
+*://*.pxweimei.com/*
 *://*.pxyz760.cn/*
 *://*.pxz8.cn/*
 *://*.pyax021.cn/*
@@ -4738,6 +4742,7 @@
 *://*.vqgzsxm.cn/*
 *://*.vqtddz.cn/*
 *://*.vsb08zc.cn/*
+*://*.vsgood.com/*
 *://*.vtiorio.com/*
 *://*.vva71ue.cn/*
 *://*.vvlbxbh.cn/*
@@ -4877,6 +4882,7 @@
 *://*.wlnewkj.com/*
 *://*.wlpx888.cn/*
 *://*.wlq4hte.cn/*
+*://*.wlylzxyy.com/*
 *://*.wm9wnt2.cn/*
 *://*.wmyqz.com/*
 *://*.wn75.cn/*
