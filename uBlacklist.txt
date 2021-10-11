@@ -6257,3 +6257,17 @@
 *://*.zzzhtrade.com/*
 *://*.zzzxmryy.com/*
 *://*.zzzysy.com/*
+*://*.kpgbq.com/*
+*://*.www.juqingtang.com/*
+*://*.www.anmo1.com/*
+*://*.0713dh.com/*
+*://*.www.jjkangdi.com/*
+*://*.www.kpraise.com/*
+*://*.jietouxzz.com/*
+*://*.www.threeooo.com/*
+*://*.hstcfw.com/*
+*://*.www.scwc028.com/*
+*://*.omz666.com/*
+*://*.qitianjk.com/*
+*://*.www.urontz.com/*
+*://*.pdsrjgs.com/*
