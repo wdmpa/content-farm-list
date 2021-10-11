@@ -5582,3 +5582,12 @@
 *://118.193.38.103/*
 *://18.141.160.82/*
 *://*.cddinglism.com/*
+*://*.chongwg3.com/*
+*://*.tym100.com/*
+*://*.sqp.buzz/*
+*://*.igazone.com/*
+*://*.ayrxwz.com/*
+*://*.iuwenhua.com/*
+*://*.7zx.com/*
+*://*.snjiaoyu.com/*
+*://*.ryjxcnc.com/*
