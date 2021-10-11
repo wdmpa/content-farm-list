@@ -674,6 +674,7 @@
 *://*.60vjhou.cn/*
 *://*.617cq.com/*
 *://*.61uda9c.cn/*
+*://*.6200wq.cn/*
 *://*.620386.com/*
 *://*.62az.cn/*
 *://*.62veuu.cn/*
@@ -784,6 +785,7 @@
 *://*.7pgisga.cn/*
 *://*.7qs5xc.cn/*
 *://*.7r67h.cn/*
+*://*.7vfpow.cn/*
 *://*.7vgfj68.cn/*
 *://*.7vvr4jp.cn/*
 *://*.7xf334s.cn/*
@@ -971,6 +973,7 @@
 *://*.adaicy.com/*
 *://*.adcardpromo.buzz/*
 *://*.adcbnwa.com/*
+*://*.adexcctv.com/*
 *://*.adfasff.cn/*
 *://*.adiamondmine.buzz/*
 *://*.adlerseeds.buzz/*
@@ -1050,6 +1053,7 @@
 *://*.alltechsystemsonline.buzz/*
 *://*.alltop360.com/*
 *://*.allwanderlandstravel.buzz/*
+*://*.al-muhaidib.buzz/*
 *://*.aln0aqw.cn/*
 *://*.al-nida.buzz/*
 *://*.alpinemediagroup.buzz/*
@@ -1099,6 +1103,7 @@
 *://*.apotheken-bestellung.buzz/*
 *://*.app-good.com/*
 *://*.applerp.cn/*
+*://*.appleseedconsulting.buzz/*
 *://*.applicationsbuilder.buzz/*
 *://*.appqianbao.com/*
 *://*.apsd360.com/*
@@ -1576,6 +1581,7 @@
 *://*.cnftth.cn/*
 *://*.cngobig.com/*
 *://*.cngowo.com/*
+*://*.cnjianma.com/*
 *://*.cnjinwang.cn/*
 *://*.cnkeliji.com/*
 *://*.cnls8.com/*
@@ -1682,12 +1688,14 @@
 *://*.cxyy0429.cn/*
 *://*.cxz114.com/*
 *://*.cy0734.com/*
+*://*.cyhjjc.com/*
 *://*.cyshangji.com/*
 *://*.czag88.com/*
 *://*.czaofeng.com/*
 *://*.czchouqin.com/*
 *://*.czcqs.com/*
 *://*.czdyyy.cn/*
+*://*.czgddq.com/*
 *://*.czgeek.com/*
 *://*.czjdhx.com/*
 *://*.czjscxs.com.cn/*
@@ -1793,6 +1801,7 @@
 *://*.digital-mouse.buzz/*
 *://*.diollarrentacar.buzz/*
 *://*.dioys.com/*
+*://*.directoriogratis.buzz/*
 *://*.direct-to-u.buzz/*
 *://*.direqx.com/*
 *://*.discuzx3.com/*
@@ -2404,6 +2413,7 @@
 *://*.gz29.cn/*
 *://*.gzbybg.com/*
 *://*.gzccc-edu.cn/*
+*://*.gzcijie.com/*
 *://*.gzcylwl.com/*
 *://*.gzeasydo.com/*
 *://*.gzgz163.com/*
@@ -2487,6 +2497,7 @@
 *://*.hbysa.com/*
 *://*.hbytenergy.com/*
 *://*.hbyuejimei.com/*
+*://*.hbzhct.com/*
 *://*.hc380la.com/*
 *://*.hcnpqu.cn/*
 *://*.hcvvraq.cn/*
@@ -2504,6 +2515,7 @@
 *://*.healths120.com/*
 *://*.healthtagtw.com/*
 *://*.hebeiguosu.com/*
+*://*.hebiluban.com/*
 *://*.hecsoft.cn/*
 *://*.hedatong.com/*
 *://*.hedebao.cn/*
@@ -2576,6 +2588,7 @@
 *://*.hmjg88.com/*
 *://*.hmm8.cn/*
 *://*.hmsagwq.cn/*
+*://*.hmyds.com/*
 *://*.hmyecrk.cn/*
 *://*.hnajbcj.cn/*
 *://*.hndongda.com/*
@@ -2609,6 +2622,7 @@
 *://*.hongkonginstyle.buzz/*
 *://*.hongshuit.com/*
 *://*.hongxitech.com/*
+*://*.hongyejs.com/*
 *://*.hongyuanqipei.cn/*
 *://*.honroo.com/*
 *://*.hoooeee.com/*
@@ -2660,6 +2674,7 @@
 *://*.htynwqz.cn/*
 *://*.htyqc.com/*
 *://*.huahuahc.com/*
+*://*.huaju8.com/*
 *://*.hualianem.com/*
 *://*.hualunzs.com/*
 *://*.huanjingdianqi.cn/*
@@ -2762,6 +2777,7 @@
 *://*.iclinking.com/*
 *://*.icnmall.com/*
 *://*.icplf.cn/*
+*://*.id0m3f.cn/*
 *://*.id528.com/*
 *://*.idaote.com/*
 *://*.idecap.cn/*
@@ -2795,8 +2811,10 @@
 *://*.ike0e3v.cn/*
 *://*.ikz0wke.cn/*
 *://*.ilandrover.com/*
+*://*.ilike109.com/*
 *://*.ilueu.cn/*
 *://*.ilzhrmn.cn/*
+*://*.im1pxi.cn/*
 *://*.ima-cn.cn/*
 *://*.imageinfo.cn/*
 *://*.imagina-tech.buzz/*
@@ -2978,6 +2996,7 @@
 *://*.jlychb.com/*
 *://*.jlytedz.com/*
 *://*.jlzzfk.com/*
+*://*.jm168888.com/*
 *://*.jm3nb.cn/*
 *://*.jmdscs.com/*
 *://*.jmeishi.com/*
@@ -3073,6 +3092,7 @@
 *://*.jxgzkaier.com/*
 *://*.jxhx668.com/*
 *://*.jxjdj.com/*
+*://*.jxjjxf.com/*
 *://*.jxjyjdsb.com/*
 *://*.jxlmfg.com/*
 *://*.jxlongyuan.cn/*
@@ -3265,6 +3285,7 @@
 *://*.lanh1.com/*
 *://*.lansphoto.com/*
 *://*.lantiga.buzz/*
+*://*.lanweidong.com/*
 *://*.laodnf.com/*
 *://*.laojunshan2.cn/*
 *://*.laoshu8.cn/*
@@ -3542,6 +3563,7 @@
 *://*.mauhtcw.cn/*
 *://*.mavupzk.cn/*
 *://*.maximuum.com/*
+*://*.mbezdv.cn/*
 *://*.mbme-tr.buzz/*
 *://*.mcaren.com/*
 *://*.mcark.com/*
@@ -3634,6 +3656,7 @@
 *://*.momjr94.cn/*
 *://*.momlcxm.cn/*
 *://*.mopojqe.cn/*
+*://*.morangame.com/*
 *://*.moschallski.buzz/*
 *://*.moshouhj.com/*
 *://*.mote99.com/*
@@ -3869,6 +3892,7 @@
 *://*.ny5ih9z.cn/*
 *://*.nyccz.com/*
 *://*.nyjcjy.com/*
+*://*.nyjjl.com/*
 *://*.nywanai.com/*
 *://*.nzb8.cn/*
 *://*.nzhdvi.cn/*
@@ -3878,6 +3902,7 @@
 *://*.o0268l8.cn/*
 *://*.o0dijve.cn/*
 *://*.o16f90.cn/*
+*://*.o2top.com/*
 *://*.o3oynh.cn/*
 *://*.o42v0g0.cn/*
 *://*.o4xlk29.cn/*
@@ -3982,6 +4007,7 @@
 *://*.paeqhy.cn/*
 *://*.pai81.com/*
 *://*.paiguitar.com/*
+*://*.paihangtop.com/*
 *://*.pandaholiday.cn/*
 *://*.panmeix.com/*
 *://*.panoma.buzz/*
@@ -4171,6 +4197,7 @@
 *://*.qdmeian.com/*
 *://*.qds315.com/*
 *://*.qdshadai.com/*
+*://*.qdtowel.com/*
 *://*.qdyhf.com/*
 *://*.qdylx.com/*
 *://*.qdyxg.cn/*
@@ -4248,6 +4275,7 @@
 *://*.qqstly.com/*
 *://*.qrlnpg.cn/*
 *://*.qshyh.com/*
+*://*.qswgyz.com/*
 *://*.qt25.cn/*
 *://*.qt39.cn/*
 *://*.qtddbzm.cn/*
@@ -4373,6 +4401,7 @@
 *://*.rnx8.cn/*
 *://*.ro5bgz2.cn/*
 *://*.robbceleb.buzz/*
+*://*.robco-enterprises.buzz/*
 *://*.robertjutras.buzz/*
 *://*.rockymtnloghomes.buzz/*
 *://*.rodwfro.cn/*
@@ -4771,6 +4800,7 @@
 *://*.sxingzhe.com/*
 *://*.sxjswhcm.com/*
 *://*.sxp8.cn/*
+*://*.sxsqsm.com/*
 *://*.sxtelp.cn/*
 *://*.sxwddq.com/*
 *://*.sxxszx.cn/*
@@ -4928,6 +4958,7 @@
 *://*.tigotool.com/*
 *://*.tiinon.com/*
 *://*.tile-factory.buzz/*
+*://*.tingguqinapp.com/*
 *://*.titanapply.com/*
 *://*.tjbqrw.com/*
 *://*.tjdadong.com/*
@@ -5180,6 +5211,7 @@
 *://*.vns653.cn/*
 *://*.vns733.cn/*
 *://*.vo656yq.cn/*
+*://*.volprixreduit.buzz/*
 *://*.vpfwzjt.cn/*
 *://*.vplugins.com/*
 *://*.vqgzsxm.cn/*
@@ -5208,6 +5240,7 @@
 *://*.w0z4z1p.cn/*
 *://*.w16r8ba.cn/*
 *://*.w1iy510.cn/*
+*://*.w4bl.com/*
 *://*.w6g5lqk.cn/*
 *://*.w6wb90q.cn/*
 *://*.w7fxjt7.cn/*
@@ -5526,12 +5559,15 @@
 *://*.xinhengtong2.cn/*
 *://*.xinjiuyang.cn/*
 *://*.xinjiyinhe.com/*
+*://*.xinleyx.com/*
 *://*.xinlongal.com/*
+*://*.xinming518.com/*
 *://*.xinnongjia.cn/*
 *://*.xinqs.com/*
 *://*.xinshoujss.com/*
 *://*.xinxianghg.cn/*
 *://*.xinxingzsj.com/*
+*://*.xinyou1.com/*
 *://*.xinyu0772.com/*
 *://*.xinyuanming.cn/*
 *://*.xinyueju.com.cn/*
@@ -5672,6 +5708,7 @@
 *://*.yadgu8g.cn/*
 *://*.yadongfish.com/*
 *://*.yafuzhenzhi.cn/*
+*://*.yake001.com/*
 *://*.yangbaoli.com/*
 *://*.yanghetuan.com/*
 *://*.yangtao365.com/*
@@ -5719,6 +5756,7 @@
 *://*.yhnnc.com/*
 *://*.yhstnc.com/*
 *://*.yhvhamt.cn/*
+*://*.yhwdl.com/*
 *://*.yhzk8.com/*
 *://*.yi9wezq.cn/*
 *://*.yiaso0.cn/*
@@ -5851,6 +5889,7 @@
 *://*.yuhaokeji.com/*
 *://*.yuhuan777.cn/*
 *://*.yuleall.com/*
+*://*.yulinkehong.cn/*
 *://*.yulongwujinsujiao.cn/*
 *://*.yumiaio688.com/*
 *://*.yundabao.net.cn/*
@@ -5982,6 +6021,7 @@
 *://*.zhhmcm.com/*
 *://*.zhhyst.com/*
 *://*.zhi07j8.cn/*
+*://*.zhijiad.com/*
 *://*.zhijiaw.com/*
 *://*.zhixinlu.com/*
 *://*.zhjfood.com/*
@@ -6006,6 +6046,7 @@
 *://*.zhutigm.com/*
 *://*.zhuxuekeji.com/*
 *://*.zhuyimei.cn/*
+*://*.zhwy360.com/*
 *://*.zhzjgc.com/*
 *://*.zifadc.com/*
 *://*.zihwxqd.cn/*
@@ -6040,6 +6081,7 @@
 *://*.zm116.com/*
 *://*.zm12.cn/*
 *://*.zm5537.com/*
+*://*.zmdhdyc.com/*
 *://*.zmgood.com/*
 *://*.zmpat.com/*
 *://*.zms2fv4.cn/*
