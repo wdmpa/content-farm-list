@@ -66,6 +66,7 @@
 .0575wuliu.com
 .0577afs.cn
 .0592pifu.com
+.0592weixin.com
 .0595jt.com
 .05zo21q.cn
 .061922.com
@@ -208,6 +209,7 @@
 .14nh003.cn
 .151yutm.cn
 .1546805.cn
+.15888st.com
 .158mz.cn
 .1594331.cn
 .15lq.cn
@@ -326,6 +328,7 @@
 .23233.com.cn
 .23539876.com
 .23e8.com
+.23yhj.com
 .247hc0q.cn
 .2481832.cn
 .24hall.buzz
@@ -775,6 +778,7 @@
 .755hunqing.com
 .7609ix5.cn
 .760cf.com
+.764pk.com
 .766km.cn
 .7671117.com
 .76likyx.cn
@@ -1419,6 +1423,7 @@
 .bobvea.cn
 .bodizi.com
 .boe4ayz.cn
+.bohaijixie.com
 .bohao5266.cn
 .boilgame.com
 .bokeehome.cn
@@ -1481,6 +1486,7 @@
 .byxz518.com
 .byzzxsj.com
 .bz328.com
+.bzbinhai.com
 .bzldzs.com
 .bzsjxyc.com
 .bzxzedu.com
@@ -2162,6 +2168,7 @@
 .fangxiaojie20082008.cn
 .fanslive.cn
 .fantasy-gifts.buzz
+.fanzhitech.com
 .fastenerinventories.buzz
 .fatnvc.cn
 .fbadorp.cn
@@ -2330,6 +2337,7 @@
 .ganxi318.com
 .gaokaobj.cn
 .gaolou9899.cn
+.gaomi88.com
 .gatenet1.buzz
 .gatos.buzz
 .gaypla.com
@@ -2495,6 +2503,7 @@
 .guoxuancm.com
 .guroma.com
 .guwan1959.com
+.guxante.com
 .guygyg.cn
 .guzhuangts.com
 .gwjypd.cn
@@ -2526,6 +2535,7 @@
 .gzccc-edu.cn
 .gzcijie.com
 .gzcylwl.com
+.gzdemiao.com
 .gzdwss.com
 .gzeasydo.com
 .gzgz163.com
@@ -3033,6 +3043,7 @@
 .jccybj.cn
 .jch6gjv.cn
 .jcpdw.com
+.jcstools.buzz
 .jcx8.cn
 .jcxufev.cn
 .jd65.cn
@@ -3271,6 +3282,7 @@
 .k361hd.cn
 .k3cr.com
 .k42b0k.cn
+.k5e914.cn
 .k5uc.com
 .k7f6g.cn
 .k7stccl.cn
@@ -3301,6 +3313,7 @@
 .kcd663.cn
 .kcexvop.cn
 .kclbs.com
+.kcontest.com
 .kcx8.cn
 .kdfkq.com
 .kdlcaie.cn
@@ -3651,6 +3664,7 @@
 .lxi8hog.cn
 .lxmt168.cn
 .lxmweb.cn
+.lybtlgs.com
 .lydeyitz.com
 .lydgas.com
 .lydimei.com
@@ -3792,6 +3806,7 @@
 .mincoon.com
 .mindongsc.com
 .mingrenze.com
+.minijiaju.com
 .misterzeng.com
 .miudang.cn
 .mjg8.cn
@@ -4249,6 +4264,7 @@
 .phdehr.cn
 .photo-fax.buzz
 .photoproxi.buzz
+.photosyu.com
 .phqyauh.cn
 .phxgmy.com
 .pic01nm.cn
@@ -4334,6 +4350,7 @@
 .psr8.cn
 .psxs5e6.cn
 .pti05.com
+.ptirch.com
 .ptsyyy.com
 .ptt0w0.cn
 .ptw2016.com
@@ -5117,6 +5134,7 @@
 .taododo.cn
 .taoquange.cn
 .taotao988.com
+.taoxiaodui.com
 .taoxingyou.com
 .tasarikurkmod.buzz
 .tatcdz.com
@@ -5452,6 +5470,7 @@
 .vkcho.cn
 .vkeblog.com
 .vkhll0v.cn
+.vlove8.com
 .vm4zd.cn
 .vme2mdf.cn
 .vnfa7.cn
@@ -5648,6 +5667,7 @@
 .worldphim.com
 .worldseries13.buzz
 .worldtradeglobal.buzz
+.woue4.cn
 .wow10.cn
 .wowaoshi.com
 .woyumi.com
@@ -5796,6 +5816,7 @@
 .xiangbaola.com
 .xiangdian.net.cn
 .xianguoge.com
+.xianpinqd.com
 .xianrent.com
 .xianyounet.com
 .xianzuoba6.com
@@ -5902,6 +5923,7 @@
 .xshyjtls.com
 .xssfysxx.com
 .xsstu.cn
+.xswyb.com
 .xsyfs.com
 .xsymphonyx.buzz
 .xt185.com
@@ -6404,6 +6426,7 @@
 .zub2yiw.cn
 .zuilvu.com
 .zukunftswerkstatt.buzz
+.zunji007.com
 .zunyipifa.com
 .zuqiouyouxi.cn
 .zw2016.com
