@@ -596,6 +596,7 @@
 *://*.51bjcx.com/*
 *://*.51btbt.cn/*
 *://*.51chedao.com/*
+*://*.51chelaoda.com/*
 *://*.51gole.com/*
 *://*.51huanzu.com/*
 *://*.51p1.com/*
@@ -794,6 +795,7 @@
 *://*.7cka.com/*
 *://*.7dapps.com/*
 *://*.7daysle.com/*
+*://*.7dkr.com/*
 *://*.7e71.com/*
 *://*.7f9n1s.cn/*
 *://*.7g2t5vr.cn/*
@@ -1003,6 +1005,7 @@
 *://*.accounting-products.buzz/*
 *://*.accountingjobsite.buzz/*
 *://*.acepetproducts.buzz/*
+*://*.acive-filter.buzz/*
 *://*.acmesimple.com/*
 *://*.acnurint.buzz/*
 *://*.actionalist.buzz/*
@@ -1466,6 +1469,7 @@
 *://*.bupubcrawls.buzz/*
 *://*.bush98.buzz/*
 *://*.businesstagtw.com/*
+*://*.buwoline.buzz/*
 *://*.buyhomehub.cn/*
 *://*.bwclkkh.cn/*
 *://*.bx8z.cn/*
@@ -2805,6 +2809,7 @@
 *://*.huanwin.com/*
 *://*.huaqiang168.cn/*
 *://*.huataiok.com/*
+*://*.huaxing198.com/*
 *://*.huayuanme.com/*
 *://*.huayuejx88.com/*
 *://*.huayufuke.com/*
@@ -3210,6 +3215,7 @@
 *://*.julx.cn/*
 *://*.jumeistone.com/*
 *://*.junan88.cn/*
+*://*.junckerbros.buzz/*
 *://*.jungarian.buzz/*
 *://*.junjumall.com/*
 *://*.juqingtang.com/*
@@ -4539,6 +4545,7 @@
 *://*.ranjgzo.cn/*
 *://*.rate-movie.com/*
 *://*.raven-industries.buzz/*
+*://*.raysch.com/*
 *://*.razahm.com/*
 *://*.rbcdy.com/*
 *://*.rbh8.cn/*
@@ -5188,6 +5195,7 @@
 *://*.tile-factory.buzz/*
 *://*.tingguqinapp.com/*
 *://*.titanapply.com/*
+*://*.tittorture.buzz/*
 *://*.tjbhd.com/*
 *://*.tjbqrw.com/*
 *://*.tjdadong.com/*
@@ -6220,6 +6228,7 @@
 *://*.z7np5o7.cn/*
 *://*.z7obq3f.cn/*
 *://*.za60.cn/*
+*://*.zaataritravel.buzz/*
 *://*.zahope.com/*
 *://*.zamatt.com/*
 *://*.zaoqijy.com/*
