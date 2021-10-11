@@ -4877,6 +4877,7 @@
 *://*.weblanguage.cn/*
 *://*.webrobb.buzz/*
 *://*.websajts.buzz/*
+*://*.websgj.com/*
 *://*.weckspace.com/*
 *://*.wedlockphotography.buzz/*
 *://*.wefunwe.com/*
