@@ -2285,6 +2285,7 @@
 *://*.glass818.com/*
 *://*.glassfibre.cn/*
 *://*.glcq55s.cn/*
+*://*.gldplus.com/*
 *://*.glhsmm.com/*
 *://*.glhxrh.com/*
 *://*.gln8fbe.cn/*
