@@ -5591,3 +5591,4 @@
 *://*.7zx.com/*
 *://*.snjiaoyu.com/*
 *://*.ryjxcnc.com/*
+*://*.zjglaike.com/*
