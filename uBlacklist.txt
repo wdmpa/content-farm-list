@@ -6686,3 +6686,13 @@
 *://*.zzzhtrade.com/*
 *://*.zzzxmryy.com/*
 *://*.zzzysy.com/*
+*://118.193.38.103/*
+*://18.141.160.82/*
+*://45.207.61.193/*
+*://*.dmxylll.com/*
+*://*.dashen365.com/*
+*://*.ccbeida.com/*
+*://*.ccmp365.com/*
+*://*.hedamall.com/*
+*://*.jxncwdc.com/*
+*://*.rscmy365.com/*
