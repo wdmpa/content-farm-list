@@ -11,23 +11,23 @@ log = logging.getLogger(__name__)
 def main():
     domains = read_all()
     domain_set = set()
-    sorted = []
+    domain_list = []
     for domain in domains:
         if domain.startswith('www.'):
             domain = domain.replace('www.', '')
         domain_set.add(domain)
         pass
 
-    sorted.extend(domain_set)
-    sorted.sort()
-    write_all(sorted)
+    domain_list.extend(domain_set)
+    domain_list.sort()
+    write_all(domain_list)
 
 
 def read_all():
     domains = set()
     domains.update(read_ublacklist())
     domains.update(read_surge())
-    log.info('read %s  unique lines' % len(domains))
+    log.info('Read %s  unique lines' % len(domains))
     return domains
 
 
@@ -39,14 +39,17 @@ def write_all(domains):
 
 def read_file(fname, pattern):
     domains = []
-    with open('../' + fname) as f:
-        for line in f.readlines():
-            m = re.match(pattern, line)
-            if m and len(m.groups()) > 0:
-                domains.append(m.group(1))
+    if os.path.exists('../' + fname):
+        with open('../' + fname) as f:
+            for line in f.readlines():
+                m = re.match(pattern, line)
+                if m and len(m.groups()) > 0:
+                    domains.append(m.group(1))
+                pass
             pass
-        pass
-    log.info('read %s lines from %s' % (len(domains), fname))
+        log.info('Read %s lines from %s' % (len(domains), fname))
+    else:
+        log.warning('No such file or directory: %s' % '../' + fname)
     return domains
 
 
