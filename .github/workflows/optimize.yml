@@ -1,0 +1,42 @@
+name: Optimize Action
+
+on:
+  push:
+    path-ignore:
+      - 'scripts/**'
+
+jobs:
+  optimize-and-commit-push:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.8
+
+    - name: Optimize
+      run: |
+        cd scripts
+        python optimizer.py
+
+    - name: Commit
+      run: |
+        status_log=$(git status -sb)
+        if [ "$status_log" == "## main...origin/main" ];then
+          echo "nothing to commit, working tree clean"
+        else
+          echo "commit..."
+          git config --global user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git config --global user.name github-actions[bot]
+          git add .
+          git commit -m "optimize" -a
+        fi
+
+    - name: Push
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.OPTIMIZER_ACCESS_TOKEN }}
