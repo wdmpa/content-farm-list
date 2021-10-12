@@ -1587,6 +1587,7 @@
 *://*.cbuowhi.cn/*
 *://*.cbx6sn.cn/*
 *://*.cc8816.com/*
+*://*.ccbeida.com/*
 *://*.ccdld.com/*
 *://*.cceedjcss.com/*
 *://*.ccheyi.com/*
@@ -1594,6 +1595,7 @@
 *://*.ccjiapeng.com/*
 *://*.cckaxy.com/*
 *://*.ccmhqz.com/*
+*://*.ccmp365.com/*
 *://*.ccpaisen.com/*
 *://*.ccqczzy.com/*
 *://*.ccruihe.com/*
@@ -1903,6 +1905,7 @@
 *://*.daosuchaokuai.cn/*
 *://*.dashangvip.com/*
 *://*.dashdirectory.buzz/*
+*://*.dashen365.com/*
 *://*.datatianji.com/*
 *://*.datianlong.cn/*
 *://*.davidsonandrade.buzz/*
@@ -2002,6 +2005,7 @@
 *://*.dmfxy.com/*
 *://*.dmgogo.com/*
 *://*.dmi286.com/*
+*://*.dmxylll.com/*
 *://*.dn878ou.cn/*
 *://*.dnc8.cn/*
 *://*.dnf0451.com/*
@@ -2747,6 +2751,7 @@
 *://*.hebeiguosu.com/*
 *://*.hebiluban.com/*
 *://*.hecsoft.cn/*
+*://*.hedamall.com/*
 *://*.hedatong.com/*
 *://*.hedebao.cn/*
 *://*.heelquik-ec.buzz/*
@@ -3374,6 +3379,7 @@
 *://*.jxmcsj.com/*
 *://*.jxmhwxd.com/*
 *://*.jxmmpf.com/*
+*://*.jxncwdc.com/*
 *://*.jxqhpz.com/*
 *://*.jxqlgg.com/*
 *://*.jxshenyi.com/*
@@ -4812,6 +4818,7 @@
 *://*.rs8zid4.cn/*
 *://*.rs91.cn/*
 *://*.rsb8.cn/*
+*://*.rscmy365.com/*
 *://*.rsjn4h1.cn/*
 *://*.rstzjt.com/*
 *://*.rtg8.cn/*
@@ -6686,13 +6693,3 @@
 *://*.zzzhtrade.com/*
 *://*.zzzxmryy.com/*
 *://*.zzzysy.com/*
-*://118.193.38.103/*
-*://18.141.160.82/*
-*://45.207.61.193/*
-*://*.dmxylll.com/*
-*://*.dashen365.com/*
-*://*.ccbeida.com/*
-*://*.ccmp365.com/*
-*://*.hedamall.com/*
-*://*.jxncwdc.com/*
-*://*.rscmy365.com/*
