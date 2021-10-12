@@ -129,6 +129,7 @@
 .0hb8b.cn
 .0jf1l38.cn
 .0k7vsw4.cn
+.0kah0k.cn
 .0l7rin0.cn
 .0li1cpt.cn
 .0ltkzv7.cn
@@ -237,6 +238,7 @@
 .17youhuiba.com
 #18.141.160.82
 .1800copy.buzz
+.1800gonow.buzz
 .1837283.cn
 .1888dj.com
 .189qt.com
@@ -252,6 +254,7 @@
 .1b43j7f.cn
 .1bu1bu.com
 .1c7b.cn
+.1cite.buzz
 .1cs9b98.cn
 .1esw.com
 .1f2lbvl.cn
@@ -286,6 +289,7 @@
 .1tct.cn
 .1tcu.cn
 .1tcw.cn
+.1tour3.buzz
 .1u2u1.com
 .1uyh5hf.cn
 .1vdu.com
@@ -365,9 +369,11 @@
 .2gg0gmn.cn
 .2gx0rff.cn
 .2h42j1f.cn
+.2hay.buzz
 .2izr31t.cn
 .2lndd3z.cn
 .2match2.buzz
+.2mikes.buzz
 .2optrip.com
 .2p79j9v.cn
 .2p8doar.cn
@@ -435,6 +441,7 @@
 .37orog3.cn
 .387u.com
 .388625.com
+.3adfo7.cn
 .3agtl2.cn
 .3balao.com
 .3buxfy1.cn
@@ -548,6 +555,7 @@
 .4cookbooks.buzz
 .4d3yfbf.cn
 .4december.buzz
+.4desserts.buzz
 .4dgarch.buzz
 .4dkmbza.cn
 .4dophpv.cn
@@ -714,6 +722,7 @@
 .6351juanchi.cn
 .635df.cn
 .636862.com
+.63rqq7.cn
 .640644.com
 .64pr.com
 .652951.com
@@ -751,6 +760,7 @@
 .6g1hsvd.cn
 .6hm4bn.cn
 .6jfvvp.cn
+.6jm6tp.cn
 .6kapp.com
 .6p98dp6.cn
 .6painted8.com
@@ -769,6 +779,7 @@
 .6z9kva.cn
 .706qjdu.cn
 .707o.com
+.71usrc.cn
 .720com.cn
 .720exl.cn
 .727823.com
@@ -835,6 +846,7 @@
 .800consult.buzz
 .800hiphop.buzz
 .800jpw.com
+.800liquors.buzz
 .800newyork.buzz
 .800party.buzz
 .800rags.buzz
@@ -910,6 +922,7 @@
 .91bigman.com
 .91fangpian.com
 .91tgo.com
+.91zhushan.com
 .925u.cn
 .927km.com
 .928zy.com
@@ -932,6 +945,7 @@
 .95eo.com
 .971700.com
 .973web.buzz
+.975hus.cn
 .97oxford.buzz
 .980pj.cn
 .987yy.cn
@@ -957,6 +971,7 @@
 .9alife.com
 .9ct156h.cn
 .9dd3.cn
+.9g6ygu.cn
 .9gft.com
 .9go8lrt.cn
 .9j38dyc.cn
@@ -967,6 +982,7 @@
 .9m0f4gn.cn
 .9mf72v3.cn
 .9mivc60.cn
+.9n30tt.cn
 .9n9rsx.cn
 .9pert0w.cn
 .9pottery5.com
@@ -1000,6 +1016,7 @@
 .aaggob.cn
 .aalaicc.com
 .abba-escorts.buzz
+.abbotpottery.buzz
 .abbyjd.com
 .abcpowerwash.buzz
 .abitibimining.buzz
@@ -1007,10 +1024,12 @@
 .aboriginalweb.buzz
 .about-usa.buzz
 .abschirmgeraet.buzz
+.abscisse-info.buzz
 .absolute-sales.buzz
 .absolutequalitylimo.buzz
 .abstriction.buzz
 .academyagent.buzz
+.accentsgifts.buzz
 .accidentlegalcenter.buzz
 .accord-products.buzz
 .accounting-products.buzz
@@ -1042,7 +1061,9 @@
 .adui5.cn
 .adultbets.buzz
 .adultdesserts.buzz
+.adultnewsletters.buzz
 .adventist-home-school.buzz
+.adventure-out.buzz
 .adventures-of.buzz
 .advertisement4you.buzz
 .adzna.com
@@ -1057,6 +1078,7 @@
 .agoracentredestudis.buzz
 .agui98.com
 .ahaqsyfj.com
+.ahead-consulting.buzz
 .ahfi02z.cn
 .ahgy168.com
 .ahhechang.com
@@ -1082,6 +1104,7 @@
 .aimeimm.cn
 .ainilaiba.com
 .aiqq8.cn
+.air-ballon.buzz
 .air-travel-card.buzz
 .airflowonline.buzz
 .airgeorgian.buzz
@@ -1100,8 +1123,10 @@
 .akzxwzp.cn
 .al-muhaidib.buzz
 .al-nida.buzz
+.al-shaibani.buzz
 .ala-ding.cn
 .alabosy123.com
+.aladin-upload.buzz
 .alaefu.com
 .alarmsbusiness.buzz
 .albertrelogistics.buzz
@@ -1136,6 +1161,7 @@
 .amphioninternational.buzz
 .an700.com
 .analplug.cn
+.ancestryworldtree.buzz
 .andre-aimaq.buzz
 .andreasteunzer.buzz
 .anercn.com
@@ -1150,6 +1176,7 @@
 .anmadradubh.buzz
 .anmo1.com
 .anningbaby.com
+.anointedhomesart.buzz
 .anonymous-proxy.buzz
 .anonymousjuice.buzz
 .anpaicao.cn
@@ -1174,6 +1201,7 @@
 .apkhr.com
 .apotheken-bestellung.buzz
 .app-good.com
+.appleroses.buzz
 .applerp.cn
 .appleseedconsulting.buzz
 .applicationsbuilder.buzz
@@ -1186,6 +1214,7 @@
 .aqbbb.com
 .aquacool-gaffney.buzz
 .ar3326k.cn
+.arabian-gallery.buzz
 .arabicmoviesdirect.buzz
 .arealcat.com
 .argointernet.buzz
@@ -1208,6 +1237,7 @@
 .asc-infolog.buzz
 .ascd9.cn
 .ascv-musculation.buzz
+.asesorinfo.buzz
 .asfvff.cn
 .asgvas.cn
 .asiannexus.buzz
@@ -1216,6 +1246,7 @@
 .askraft.buzz
 .assurancesmeilleur.buzz
 .asylan.com
+.athletessolution.buzz
 .atlanticecon.buzz
 .atlanticpharmacyla.buzz
 .attentionone.buzz
@@ -1275,11 +1306,13 @@
 .baiweisao.com
 .baixsb.cn
 .baiziy.com
+.ballgamesplus.buzz
 .ballroom-dancer.buzz
 .baltic-immo.buzz
 .bamuyi.com
 .bandwidth9.buzz
 .banfun.cn
+.banginbooty.buzz
 .bangmaer.com
 .bangmeili.com
 .banmajita.com
@@ -1294,6 +1327,7 @@
 .bargcoz.cn
 .barsch-marktforschung.buzz
 .bathnet.cn
+.batshoot.buzz
 .bay668.com
 .bayareaexotic.buzz
 .baycen.cn
@@ -1331,9 +1365,12 @@
 .benestat.buzz
 .benmujiang.com
 .bentbpi.com
+.bertonerimarble.buzz
 .bessca.com
+.bessybug.buzz
 .best-of-best.buzz
 .bestfreefootball.buzz
+.besthuaxia.com
 .bestoaa.com
 .bethelroadsweepers.buzz
 .betriebspaedagogik.buzz
@@ -1354,6 +1391,7 @@
 .bhjy2007.com
 .bhlzyy.com
 .bi8n0u8.cn
+.bicycle-zone.buzz
 .bijnchr.cn
 .bikinidomains.buzz
 .bilbotools.buzz
@@ -1413,6 +1451,7 @@
 .bldautob.com
 .bldygs.com
 .blehytter.buzz
+.blitz-tipp.buzz
 .bljt1x2.cn
 .blom7o0.cn
 .bluebox3d.com
@@ -1431,8 +1470,10 @@
 .bneovb5.cn
 .bnshou.com
 .boardersedge.buzz
+.boaterssource.buzz
 .bobvea.cn
 .bodizi.com
+.bodyforlifediaries.buzz
 .boe4ayz.cn
 .bohaijixie.com
 .bohao5266.cn
@@ -1529,6 +1570,7 @@
 .candhdistributors.buzz
 .cangzhou8.cn
 .capitalretro.buzz
+.captivamortgage.buzz
 .car-payment.cn
 .car0559.com
 .cartierwood.cn
@@ -1583,6 +1625,8 @@
 .ce2tq74.cn
 .ceaoiju.cn
 .cefotiam.com
+.celebresource.buzz
+.centrimediline.buzz
 .century21realtor.buzz
 .centurysun.cn
 .ceramic-industry.buzz
@@ -1607,6 +1651,7 @@
 .cheapaprtments.buzz
 .chechetun.com
 .checkrrr.com
+.cheerleadersuperstore.buzz
 .chem360.cn
 .chengjinzm.com
 .chengxuxf.com
@@ -1615,6 +1660,7 @@
 .chinatolink.cn
 .chinawebonline.buzz
 .chinesepcb.cn
+.chirontechnologies.buzz
 .chiroporn.buzz
 .chndongda.com
 .chongaibao.cn
@@ -1637,6 +1683,7 @@
 .chwings.com
 .ciibpsv.cn
 .cintc.cn
+.circus-square.buzz
 .city-copy-plessentin.buzz
 .cityforlust.buzz
 .cityggmm.cn
@@ -1657,8 +1704,10 @@
 .cl1s6eh.cn
 .cl2p5nn.cn
 .clairvoyantsoftware.buzz
+.clay-county.buzz
 .cldh8.com
 .clearday.cn
+.clemensbooks.buzz
 .clggz.net
 .clothw.com
 .cloudsos.com.cn
@@ -1699,12 +1748,14 @@
 .com-car.buzz
 .com.mx
 .comdevtech.buzz
+.compmemory.buzz
 .compraguapa.buzz
 .computertest.cn
 .congga.cn
 .contrex-us.buzz
 .coolpotcc.com
 .copoen.cn
+.corbistore.buzz
 .corkyevans.buzz
 .corningfranklinhealth.buzz
 .corporatediversions.buzz
@@ -1953,9 +2004,13 @@
 .dnruxet.cn
 .dnxzesj.cn
 .doak5vx.cn
+.docgord.buzz
+.docteur-joseph.buzz
 .dodsonfineart.buzz
+.dolchul.buzz
 .domihp.com
 .domy365.com
+.don-mar.buzz
 .dongchangmotors.buzz
 .dongfangeb.com
 .dormgoodies.buzz
@@ -2129,6 +2184,7 @@
 .ete68e1.cn
 .etf-world.buzz
 .etfdep.cn
+.etq3ae.cn
 .etzel-ostfriesland.de
 #eu.fwbdl.com
 .eucho.cn
@@ -2139,8 +2195,10 @@
 .euxvfhw.cn
 .ev3vtev.cn
 .evalvzw.cn
+.evdbus.com
 .eventidigitali.buzz
 .evilmaple.cn
+.ewhae.buzz
 .ewihfuu.cn
 .ewonm.cn
 .excamtest.cn
@@ -2170,6 +2228,7 @@
 .f81llg.cn
 .f8bgrmp.cn
 .fa0vu8h.cn
+.fabioinghiramiwatch.buzz
 .facecg.com
 .faguoboss.com
 .fairer.cn
@@ -2230,7 +2289,9 @@
 .fire-club.cn
 .firstcp.cn
 .fish996.com
+.fishdes.buzz
 .fishdm.com
+.fitid.buzz
 .fitzfirst.buzz
 .fivecoloursearth.buzz
 .fizet14.cn
@@ -2240,6 +2301,7 @@
 .fjhgm.com
 .fjjbwz.com
 .fjljbl.com
+.fjpruv.cn
 .fjptnews.com
 .fjqhsj.com
 .fjtnkhx.cn
@@ -2308,6 +2370,7 @@
 .fuqfour.cn
 .furenniao.com
 .furenshoes.cn
+.fuse12.buzz
 .fushuokang.com
 .futanqihcd.com
 .futengfy.com
@@ -2359,6 +2422,7 @@
 .gaokaobj.cn
 .gaolou9899.cn
 .gaomi88.com
+.garantiparamatik.buzz
 .gatenet1.buzz
 .gatos.buzz
 .gaypla.com
@@ -2383,6 +2447,7 @@
 .gdjumoou.com
 .gdpmtx.com
 .gdrellet.com
+.gdsyi.com
 .gdzsgb.cn
 .gear88.com
 .gebvrl0.cn
@@ -2390,6 +2455,7 @@
 .gegoods.com
 .gelanbao.cn
 .gene-therapeutix.buzz
+.gerecippower.buzz
 .getaoquan.com
 .gfart.cn
 .gfgyyq.com
@@ -2454,6 +2520,7 @@
 .godluck.cn
 .gofood365.com
 .gogogm.com
+.gogoyahoo.buzz
 .gojgs.com
 .goktkbf.cn
 .goldenotes.com
@@ -2511,7 +2578,9 @@
 .guauto.cn
 .gubaizx.com
 .guchengol.com
+.guerilla-medien.buzz
 .guheihei.com
+.guide-internaute.buzz
 .gujisc.com
 .guk120.com
 .guleitai.com
@@ -2644,10 +2713,12 @@
 .hbtscm.com
 .hbttjgj.com
 .hbxswy.com
+.hbynfen.com
 .hbyrs.com
 .hbysa.com
 .hbytenergy.com
 .hbyuejimei.com
+.hbzdwr.cn
 .hbzhct.com
 .hc380la.com
 .hcnpqu.cn
@@ -2664,6 +2735,7 @@
 .hdqqqfqpjb.com
 .hdtmuh7.cn
 .hdvahls.cn
+.health-enhancement.buzz
 .healths120.com
 .healthtagtw.com
 .healthy-resources.buzz
@@ -2672,7 +2744,9 @@
 .hecsoft.cn
 .hedatong.com
 .hedebao.cn
+.heelquik-ec.buzz
 .heheqc.com
+.heidschnucken.buzz
 .heimaboke.com
 .heistzone.buzz
 .heizhilin.com
@@ -2778,6 +2852,7 @@
 .holsbyror.buzz
 .holtqel.cn
 .homefindernow.buzz
+.homefindersint.buzz
 .homes-condos-nj-real-estate-agent.buzz
 .homesafetydirect.buzz
 .homeshownet.buzz
@@ -2922,6 +2997,7 @@
 .hzxhhb.com
 .hzzzylsw.com
 .hzzzytxy.cn
+.i-net-market.buzz
 .i0vmua0.cn
 .i262.cn
 .i2bau1.cn
@@ -2932,6 +3008,7 @@
 .i5yu0lo.cn
 .i9pdwe2.cn
 .ia0b6n.cn
+.iamjer.com
 .iartpai.com
 .ib4banks.buzz
 .ibaobaoche.com
@@ -2995,6 +3072,7 @@
 .imzx9e7.cn
 .in-soft.cn
 .incj1ce.cn
+.infinite-visions.buzz
 .infonerve.com
 .inkworker.com
 .inndulgehotel.buzz
@@ -3003,9 +3081,11 @@
 .integratedpaperservice.buzz
 .intellisys-haiti.buzz
 .internet-masters.buzz
+.internetshoppingusa.buzz
 .intubang.com
 .iocp.cn
 .ioeduc.com
+.ioffeer.buzz
 .ipcnpdu.cn
 .ipgclub.com
 .iphonezu.com
@@ -3022,6 +3102,7 @@
 .it1256.com
 .it235.cn
 .it5120.com
+.italgrip.buzz
 .itaotaotao.com
 .itchosun.buzz
 .itmpi-journal.buzz
@@ -3089,6 +3170,7 @@
 .jellycc2.com
 .jertcm.com
 .jesslininteriors.buzz
+.jesushelbreder.buzz
 .jesusjunction.buzz
 .jet-ex-logistic.buzz
 .jetsharon.com
@@ -3130,6 +3212,7 @@
 .jike666.com
 .jikeqi.com
 .jiliresin.cn
+.jimev1softwares.buzz
 .jin766.com
 .jincaimiye.com
 .jinda2008.com
@@ -3318,6 +3401,7 @@
 .k5e914.cn
 .k5uc.com
 .k7f6g.cn
+.k7so2q.cn
 .k7stccl.cn
 .k9boxes.buzz
 .k9hz4u8.cn
@@ -3358,7 +3442,9 @@
 .kedecity.com
 .kediyamall.com
 .kefu111.cn
+.kelly99.buzz
 .kemicloud.com
+.kenneltbob.buzz
 .kesicqh.cn
 .kesma.cn
 .ketingtc.com
@@ -3490,12 +3576,14 @@
 .lanweidong.com
 .laodnf.com
 .laojunshan2.cn
+.laonmw.cn
 .laoshu8.cn
 .lapiramideweb.buzz
 .laser-imprints.buzz
 .lawkoo.com
 .lawtagtw.com
 .lb060.com
+.lbc-services.buzz
 .lbjbvkj.cn
 .lbszftg.cn
 .lc598.com
@@ -3738,6 +3826,7 @@
 .m2er.cn
 .m2v5ofa.cn
 .m3hyyx.cn
+.m3i9yq.cn
 .m4vvddc.cn
 .m882cen.cn
 .m9myzp.cn
@@ -3779,6 +3868,7 @@
 .mariaswebdesign.buzz
 .marybethhouse.buzz
 .maryellenmacke.buzz
+.massillonmotors.buzz
 .matbakhe.com
 .matsa168.com
 .mauhtcw.cn
@@ -3849,6 +3939,7 @@
 .milubuy.com
 .mincoon.com
 .mindongsc.com
+.ming-micro.buzz
 .mingrenze.com
 .minijiaju.com
 .misterzeng.com
@@ -3962,6 +4053,7 @@
 .myqqfc.com
 .myronlevoy.buzz
 .mysgcw.com
+.mytlebeechinfo.buzz
 .mytnet.cn
 .myudesign.cn
 .mywendu.com
@@ -3990,6 +4082,7 @@
 .nameonly.cn
 .nanbense.com
 .nanning333.com
+.nanxinet.com
 .nashville-collection.buzz
 .nasu1.com
 .natural-access.buzz
@@ -4065,6 +4158,7 @@
 .njhaichuan.com
 .njhuarun.com
 .njp8.cn
+.njperennialgardens.buzz
 .njplwm.com
 .njq8.cn
 .njrqhd.com
@@ -4109,6 +4203,7 @@
 .nqp8.cn
 .nrjija.cn
 .nrm8.cn
+.nrmlmu.cn
 .nrv0jd0.cn
 .nrx8.cn
 .nsea9ex.cn
@@ -4210,12 +4305,14 @@
 .oqgeyvg.cn
 .oqyeiaw.cn
 .orbit-marine.buzz
+.orbital-solutions.buzz
 .ordoscx.com
 .orellion.com
 .orgnik.cn
 .orienco.buzz
 .orifqqi.cn
 .ork8t2.cn
+.os8d0f.cn
 .osevcy0.cn
 .osmazt.cn
 .osobuy.com
@@ -4297,6 +4394,7 @@
 .persarea.com
 .personalcreatiions.buzz
 .personbiler.buzz
+.pet-hk.buzz
 .peterrohner.buzz
 .pexf.cn
 .pflegeinfo24.buzz
@@ -4309,7 +4407,9 @@
 .pgtqcec.cn
 .phafbas.cn
 .phdehr.cn
+.phone-hk.buzz
 .photo-fax.buzz
+.photocaro-inc.buzz
 .photoproxi.buzz
 .photosyu.com
 .phqyauh.cn
@@ -4340,6 +4440,7 @@
 .pkkpva.cn
 .pl91.cn
 .planet7tech.buzz
+.planetelex.buzz
 .planetoffside.buzz
 .plant-wide.buzz
 .plat96.com
@@ -4360,6 +4461,7 @@
 .poemsoft.com
 .poetnamelife.buzz
 .poid7.cn
+.poketoys.buzz
 .pomdapi-shoes.buzz
 .pond-view.buzz
 .ponvn.cn
@@ -4441,6 +4543,7 @@
 .q48ro3t.cn
 .q5pp.cn
 .q67sfh8.cn
+.q7forum.buzz
 .q844h.cn
 .q9vmpio.cn
 .qacjjc.com
@@ -4545,6 +4648,7 @@
 .qt25.cn
 .qt39.cn
 .qtddbzm.cn
+.qtsr36.cn
 .quality-info.cn
 .quangaoxie.com
 .quanjingsc.com
@@ -4625,12 +4729,15 @@
 .rebatesu.com
 .redspicks.buzz
 .redsunbaby.cn
+.redveronica.buzz
 .reevm.com
 .relocate-us.buzz
 .remorquesboeglin.buzz
 .renfas.com
 .renliuhs.cn
+.rentals-bg.buzz
 .resoleusa.buzz
+.resolutionrealtyinc.buzz
 .retainedvscontingent.buzz
 .return-on-ideas.buzz
 .rf67.cn
@@ -4649,6 +4756,7 @@
 .ribenzyy.com
 .ridhtech.com
 .rijooyn.cn
+.risecny.buzz
 .rition.cn
 .riverexec.buzz
 .rjq8.cn
@@ -4676,10 +4784,12 @@
 .rodwfro.cn
 .roemi.cn
 .roism.cn
+.roldanmc.buzz
 .romancestop.buzz
 .rongduansi.com
 .ronghuipin.com
 .roseanhome.com
+.roycephotographics.buzz
 .rp22.cn
 .rpf8.cn
 .rpfwtbx.cn
@@ -4691,6 +4801,7 @@
 .rrfox.com
 .rrlyjt.com
 .rrn8.cn
+.rrrstudios.buzz
 .rrtts.com
 .rru8lv.cn
 .rs8zid4.cn
@@ -4744,6 +4855,7 @@
 .s32101.com
 .s3dtsm4.cn
 .s41r9mn.cn
+.s4hhhq.cn
 .s6mrt44.cn
 .s7bhco.cn
 .s84sz06.cn
@@ -4770,6 +4882,7 @@
 .sansl0005.cn
 .sansuitc.com
 .santafepathways.buzz
+.sanxingduii.com
 .sanzda.com
 .saoweb.cn
 .sartoriamoderna.com
@@ -4838,6 +4951,7 @@
 .sduqyxv.cn
 .sdxinjia.com
 .sdyujinji.com
+.seaofredinc.buzz
 .sebina2006.cn
 .seccedu.com
 .seinewind.com
@@ -4965,6 +5079,7 @@
 .skcard.cn
 .skflawyer.com
 .skh1oni.cn
+.skipsfiesta.buzz
 .sklbv40.cn
 .sky315.com
 .skyboxconsult.buzz
@@ -5022,11 +5137,13 @@
 .sqhnxw.com
 .sqn8.cn
 .sqp.buzz
+.sr0csj.cn
 .sr0lsgr.cn
 .sr1490.com
 .srstoq.com
 .ss7fuek.cn
 .ssccardinals.buzz
+.ssdijingg.com
 .sse-erfurt.buzz
 .ssghxl.com
 .ssglnkyy.com
@@ -5047,6 +5164,7 @@
 .stayhomebiz.buzz
 .stclairsupply.buzz
 .stcymy.cn
+.stephenmiao.cn
 .sth8.cn
 .sthm6608.com
 .sthtsd.cn
@@ -5073,6 +5191,7 @@
 .superchanges.buzz
 .superclubs.com.cn
 .supremeppe.buzz
+.surf4gifts.buzz
 .surprise8.com
 .survillance.buzz
 .sushiyigou.com
@@ -5307,6 +5426,7 @@
 .tntpump.cn
 .to3to.com
 .tobomb.com
+.togetmarried.buzz
 .tokp2wz.cn
 .tokyominer.com
 .tonghejiu.com
@@ -5356,6 +5476,7 @@
 .tuconsultor.buzz
 .tudou478.cn
 .tudou56.com
+.tudoudileii.com
 .turf-seed-china.buzz
 .tusfam.com
 .tuvanduhoc.buzz
@@ -5392,6 +5513,7 @@
 .tzzgcm.com
 .u0b9um3.cn
 .u0t8i03.cn
+.u0xcy3r.cn
 .u1cdpt1.cn
 .u1nkwxv.cn
 .u1vzj28.cn
@@ -5503,8 +5625,11 @@
 .vhoyizi.cn
 .vhted6p.cn
 .vi-fr.buzz
+.viaunomexico.buzz
 .vicorner.com
 .viddie.buzz
+.videogameplaza.buzz
+.viewpointcom.buzz
 .viicm.com
 .vijpnmu.cn
 .vioary.com
@@ -5512,6 +5637,8 @@
 .vip9456.com
 .vipaid.cn
 .vipdailian.com
+.virtualtoke.buzz
+.visit99.buzz
 .visitnetherland.buzz
 .visualxxx.buzz
 .vitality-spirit.buzz
@@ -5589,6 +5716,7 @@
 .wanxi520.com
 .wapk8.cn
 .warframecn.com
+.washingtonmonarch.buzz
 .waunwmcn.cn
 .waynepmj.com
 .waynon.com
@@ -5606,6 +5734,7 @@
 .wdfyw.com
 .wdrczp.com
 .we8866.cn
+.web-cottage.buzz
 .webcorreu.buzz
 .webdurable.com
 .webfootmedia.buzz
@@ -5637,6 +5766,7 @@
 .wenduyun.com
 .wenlongkm.com
 .weswift.cn
+.wetasia.buzz
 .wevopsj.cn
 .wf33.cn
 .wffd3cl.cn
@@ -5661,6 +5791,7 @@
 .whhgzn.cn
 .whhodz.com
 .whhongdun.com
+.whirpoolariconditioning.buzz
 .whitehurstclark.buzz
 .whitescorporation.buzz
 .whjnrj.com
@@ -5870,6 +6001,7 @@
 .xhzhang.com
 .xian59.com
 .xianfh.cn
+.xiang168169.cn
 .xiangbaola.com
 .xiangdian.net.cn
 .xianguoge.com
@@ -5918,7 +6050,9 @@
 .xiuczi3.cn
 .xiumicar.com
 .xiwenfs.cn
+.xiyayuan.com
 .xiyicao.cn
+.xiyouyw.com
 .xizangwa.buzz
 .xizhuanyx.com
 .xjjfss.com
@@ -5961,6 +6095,7 @@
 .xo3hn8q.cn
 .xobfukf.cn
 .xogljgp.cn
+.xp7rb9.cn
 .xphym.com
 .xptian.com
 .xpwp.com.cn
@@ -6502,6 +6637,7 @@
 .zxzq558.com
 .zy569.com
 .zydmsh.com
+.zydo1cz.cn
 .zyehouse.com
 .zyf2008.com
 .zyfkz.com
