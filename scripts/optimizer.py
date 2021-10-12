@@ -71,11 +71,11 @@ def write_ublacklist(domains):
 
 
 def read_surge():
-    return read_file('uBlacklist-Surge.txt', r'^(?:\.)?([\w\-\.]+)')
+    return read_file('Surge.txt', r'^(?:\.)?([\w\-\.]+)')
 
 
 def write_surge(domains):
-    write_file('uBlacklist-Surge.txt', domains, lambda x: '.%s\n' % x if is_domain(x) else '#%s\n' % x)
+    write_file('Surge.txt', domains, lambda x: '.%s\n' % x if is_domain(x) else '#%s\n' % x)
     pass
 
 
