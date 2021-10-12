@@ -164,6 +164,7 @@
 *://*.1018272.cn/*
 *://*.101dh.com/*
 *://*.101shequ.com/*
+*://*.101super.buzz/*
 *://*.1037293.cn/*
 *://*.1040chz.cn/*
 *://*.106jsk.com/*
@@ -1322,6 +1323,7 @@
 *://*.baoguodao9.cn/*
 *://*.baohuacx.com/*
 *://*.baomamm.cn/*
+*://*.baomuxy.com/*
 *://*.baozhiku.com/*
 *://*.bar-edge.buzz/*
 *://*.bargcoz.cn/*
@@ -1347,6 +1349,7 @@
 *://*.bdzgd67.cn/*
 *://*.beach-talk.cn/*
 *://*.beamer-heimkino.buzz/*
+*://*.beaniebiz.buzz/*
 *://*.beauty-flowers.buzz/*
 *://*.beauty-katsura.buzz/*
 *://*.beekaa.com/*
@@ -1750,6 +1753,7 @@
 *://*.comdevtech.buzz/*
 *://*.compmemory.buzz/*
 *://*.compraguapa.buzz/*
+*://*.computerjobbank.buzz/*
 *://*.computertest.cn/*
 *://*.congga.cn/*
 *://*.contrex-us.buzz/*
@@ -1872,6 +1876,7 @@
 *://*.czzrui.com/*
 *://*.czzxtl.com/*
 *://*.czzymy.com/*
+*://*.d.zymrg.com/*
 *://*.d1wnuzt.cn/*
 *://*.d2e3ylg.cn/*
 *://*.d2f4gfn.cn/*
@@ -5555,6 +5560,7 @@
 *://*.umrhyqo.cn/*
 *://*.un2dn07.cn/*
 *://*.unicacontract.buzz/*
+*://*.unlimited-results.buzz/*
 *://*.unsfunnfifxa.buzz/*
 *://*.uo4kuj1.cn/*
 *://*.up3600.com/*
@@ -5782,6 +5788,7 @@
 *://*.wh263.cn/*
 *://*.whb2r9q.cn/*
 *://*.whcrsl.cn/*
+*://*.whcxzj.com/*
 *://*.whdanni.cn/*
 *://*.whdpp.com/*
 *://*.wheelmaster.cn/*
@@ -6571,6 +6578,7 @@
 *://*.zjyeya.com/*
 *://*.zjyylk.com/*
 *://*.zjzyfm.com/*
+*://*.zkaf4d.cn/*
 *://*.zkjdz.cn/*
 *://*.zkjsq.cn/*
 *://*.zkwnj.com/*
