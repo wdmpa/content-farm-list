@@ -1,5 +1,3 @@
-*://*.fang2000.com/*
-*://*.hbjianbang.com/*
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.006xb.cn/*
@@ -2183,6 +2181,7 @@
 *://*.familycomputerusa.buzz/*
 *://*.fanaticism.cn/*
 *://*.fanfv.com/*
+*://*.fang2000.com/*
 *://*.fangmeiwen.com/*
 *://*.fangxiaojie20082008.cn/*
 *://*.fanslive.cn/*
@@ -2637,6 +2636,7 @@
 *://*.hbhuadn.com/*
 *://*.hbhzxjt.com/*
 *://*.hbjda.com/*
+*://*.hbjianbang.com/*
 *://*.hbnjajm.cn/*
 *://*.hbrszz.com/*
 *://*.hbshsh.cn/*
