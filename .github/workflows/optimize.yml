@@ -26,7 +26,7 @@ jobs:
     - name: Commit
       run: |
         status_log=$(git status -sb)
-        if [ "$status_log" == "## master...origin/master" ];then
+        if [ "$status_log" == "## main...origin/main" ];then
           echo "nothing to commit, working tree clean"
         else
           echo "commit..."
