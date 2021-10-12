@@ -27,7 +27,7 @@ def read_all():
     domains = set()
     domains.update(read_ublacklist())
     domains.update(read_surge())
-    log.info('read %s lines' % len(domains))
+    log.info('read %s  unique lines' % len(domains))
     return domains
 
 
