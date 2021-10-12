@@ -1,3 +1,5 @@
+*://*.fang2000.com/*
+*://*.hbjianbang.com/*
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.006xb.cn/*
