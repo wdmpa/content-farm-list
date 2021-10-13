@@ -1,3 +1,8 @@
+*://*.www.gzsxswkj.com/*
+*://*.www.lnjysy.com/*
+*://*.4006272373.com/*
+*://*.fmdzmf.com/*
+*://*.www.sxanjc.com/*
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.006xb.cn/*
