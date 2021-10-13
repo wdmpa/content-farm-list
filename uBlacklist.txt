@@ -6490,6 +6490,7 @@
 *://*.z7obq3f.cn/*
 *://*.za60.cn/*
 *://*.zaataritravel.buzz/*
+*://*.zabjh.com/*
 *://*.zahope.com/*
 *://*.zamatt.com/*
 *://*.zaoqijy.com/*
