@@ -1,8 +1,3 @@
-*://*.www.gzsxswkj.com/*
-*://*.www.lnjysy.com/*
-*://*.4006272373.com/*
-*://*.fmdzmf.com/*
-*://*.www.sxanjc.com/*
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.006xb.cn/*
@@ -486,6 +481,7 @@
 *://*.4000571780.com/*
 *://*.4000840088.com/*
 *://*.4006004099.com/*
+*://*.4006272373.com/*
 *://*.4006891891.com/*
 *://*.4007090505.com/*
 *://*.4008009992.cn/*
@@ -2342,6 +2338,7 @@
 *://*.flx4.com/*
 *://*.flyocean.cn/*
 *://*.fmdesk.com.cn/*
+*://*.fmdzmf.com/*
 *://*.fmkhrfk.cn/*
 *://*.fn4thp.cn/*
 *://*.fnbe1.com/*
@@ -2665,6 +2662,7 @@
 *://*.gzpyin.com/*
 *://*.gzqpsp.com/*
 *://*.gzrzl.com/*
+*://*.gzsxswkj.com/*
 *://*.gztdnt.com/*
 *://*.gzuzsjn.cn/*
 *://*.gzvekon.com/*
@@ -3742,6 +3740,7 @@
 *://*.lnh8.cn/*
 *://*.lnjcjzgc.com/*
 *://*.lnjeuuv.cn/*
+*://*.lnjysy.com/*
 *://*.lnqshzc.cn/*
 *://*.lnzzkj.com/*
 *://*.loeset.cn/*
@@ -5235,6 +5234,7 @@
 *://*.swrbs.cn/*
 *://*.swying.com/*
 *://*.sx9670.com/*
+*://*.sxanjc.com/*
 *://*.sxbauye.cn/*
 *://*.sxbgfr.com/*
 *://*.sxf8.cn/*
