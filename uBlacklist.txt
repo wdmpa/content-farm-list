@@ -1,4 +1,3 @@
-*://*.zibosuoju.com/*
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.006xb.cn/*
@@ -6580,6 +6579,7 @@
 *://*.zhuyimei.cn/*
 *://*.zhwy360.com/*
 *://*.zhzjgc.com/*
+*://*.zibosuoju.com/*
 *://*.zifadc.com/*
 *://*.zihwxqd.cn/*
 *://*.zijqabf.cn/*
