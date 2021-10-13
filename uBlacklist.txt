@@ -6326,7 +6326,6 @@
 *://*.yiytm.com/*
 *://*.yiyun999.com/*
 *://*.yizhimaofa.com/*
-*://*.yzhl999.com/*
 *://*.yjc0379.com/*
 *://*.yjedu888.com/*
 *://*.yjf8888.com/*
@@ -6472,6 +6471,7 @@
 *://*.yzeeabn.cn/*
 *://*.yzf6.com/*
 *://*.yzgcn8.cn/*
+*://*.yzhl999.com/*
 *://*.yzonelife.com/*
 *://*.yzutbw.cn/*
 *://*.yzyczxx.com/*
@@ -6489,7 +6489,6 @@
 *://*.z7np5o7.cn/*
 *://*.z7obq3f.cn/*
 *://*.za60.cn/*
-*://.*.zabjh.com/*
 *://*.zaataritravel.buzz/*
 *://*.zahope.com/*
 *://*.zamatt.com/*
