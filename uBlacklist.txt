@@ -1,9 +1,3 @@
-*://www.xoso88.buzz/*
-*://www.q8ab.com/*
-*://www.mituang.com/*
-*://wvmaster.com/*
-*://tbplate.com/*
-*://www.szmr123.com/*
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.006xb.cn/*
@@ -3971,6 +3965,7 @@
 *://*.mingrenze.com/*
 *://*.minijiaju.com/*
 *://*.misterzeng.com/*
+*://*.mituang.com/*
 *://*.miudang.cn/*
 *://*.mjg8.cn/*
 *://*.mjhhx0i.cn/*
@@ -4574,6 +4569,7 @@
 *://*.q67sfh8.cn/*
 *://*.q7forum.buzz/*
 *://*.q844h.cn/*
+*://*.q8ab.com/*
 *://*.q9vmpio.cn/*
 *://*.qacjjc.com/*
 *://*.qazoynb.cn/*
@@ -5289,6 +5285,7 @@
 *://*.szlapc.com/*
 *://*.szmbsm.cn/*
 *://*.szmobo.com/*
+*://*.szmr123.com/*
 *://*.szmyol.com/*
 *://*.szo0t2.cn/*
 *://*.szphfc.com/*
@@ -5348,6 +5345,7 @@
 *://*.tbfb1g0.cn/*
 *://*.tbfirm.com/*
 *://*.tbftz.com/*
+*://*.tbplate.com/*
 *://*.tbs100.com/*
 *://*.tbsch.com/*
 *://*.tbujxos.cn/*
@@ -5931,6 +5929,7 @@
 *://*.wuyou9.com/*
 *://*.wvcause.com/*
 *://*.wvccfgo.cn/*
+*://*.wvmaster.com/*
 *://*.wvunxj5.cn/*
 *://*.wwfphr.cn/*
 *://*.wwll88.com/*
@@ -6130,6 +6129,7 @@
 *://*.xo3hn8q.cn/*
 *://*.xobfukf.cn/*
 *://*.xogljgp.cn/*
+*://*.xoso88.buzz/*
 *://*.xp7rb9.cn/*
 *://*.xphym.com/*
 *://*.xptian.com/*
