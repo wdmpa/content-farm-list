@@ -6696,3 +6696,5 @@
 *://*.hedamall.com/*
 *://*.jxncwdc.com/*
 *://*.rscmy365.com/*
+*://*.byswq.com/*
+*://*.van2018.com/*
