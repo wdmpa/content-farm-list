@@ -6484,6 +6484,7 @@
 *://*.z7np5o7.cn/*
 *://*.z7obq3f.cn/*
 *://*.za60.cn/*
+*://.*.zabjh.com/*
 *://*.zaataritravel.buzz/*
 *://*.zahope.com/*
 *://*.zamatt.com/*
