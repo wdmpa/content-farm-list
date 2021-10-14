@@ -6720,3 +6720,7 @@
 *://*.bolieyun.com/*
 *://*.nomurlar.com/*
 *://*.gzmuzhe.com/*
+*://*.lyjdls.com/*
+*://*.bjtg168.com/*
+*://*.yzsysq.com/*
+*://*.9pole.com/*
