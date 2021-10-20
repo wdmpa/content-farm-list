@@ -1872,6 +1872,8 @@
 *://*.cxjinshu.com/*
 *://*.cxmht.com/*
 *://*.cxyy0429.cn/*
+*://*.cxyzjd.com/*
+*://*.cxymm.net/*
 *://*.cxz114.com/*
 *://*.cy0734.com/*
 *://*.cy938.com/*
