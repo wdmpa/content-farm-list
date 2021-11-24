@@ -34,6 +34,13 @@
 *://*.028yl.com/*
 *://*.029career.cn/*
 *://*.029iata.com/*
+*://*.fzfydbj.com/*
+*://*.glehe.com/*
+*://*.optoviki.buzz/*
+*://*.dmjx.com/*
+*://*.t2gcap.com/*
+*://*.hzjiucheng.com/*
+*://*.7chetuan.com/*
 *://*.029tysd.com/*
 *://*.0312jj.cn/*
 *://*.0317ol.com/*
