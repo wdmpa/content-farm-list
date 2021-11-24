@@ -34,13 +34,6 @@
 *://*.028yl.com/*
 *://*.029career.cn/*
 *://*.029iata.com/*
-*://*.fzfydbj.com/*
-*://*.glehe.com/*
-*://*.optoviki.buzz/*
-*://*.dmjx.com/*
-*://*.t2gcap.com/*
-*://*.hzjiucheng.com/*
-*://*.7chetuan.com/*
 *://*.029tysd.com/*
 *://*.0312jj.cn/*
 *://*.0317ol.com/*
@@ -826,6 +819,7 @@
 *://*.797590.com/*
 *://*.79umi0z.cn/*
 *://*.7aj4vik.cn/*
+*://*.7chetuan.com/*
 *://*.7cka.com/*
 *://*.7dapps.com/*
 *://*.7daysle.com/*
@@ -2035,6 +2029,7 @@
 *://*.dmfxy.com/*
 *://*.dmgogo.com/*
 *://*.dmi286.com/*
+*://*.dmjx.com/*
 *://*.dmxylll.com/*
 *://*.dn878ou.cn/*
 *://*.dnc8.cn/*
@@ -2439,6 +2434,7 @@
 *://*.fyy5.com/*
 *://*.fyybs.com/*
 *://*.fzflbj.com/*
+*://*.fzfydbj.com/*
 *://*.fzlive.cn/*
 *://*.fzsmlcn.com/*
 *://*.fzxunjie.com/*
@@ -2535,6 +2531,7 @@
 *://*.glassfibre.cn/*
 *://*.glcq55s.cn/*
 *://*.gldplus.com/*
+*://*.glehe.com/*
 *://*.glhsmm.com/*
 *://*.glhxrh.com/*
 *://*.gln8fbe.cn/*
@@ -3038,6 +3035,7 @@
 *://*.hzjdt.com/*
 *://*.hzjgjk.com/*
 *://*.hzjihe.com/*
+*://*.hzjiucheng.com/*
 *://*.hzjj0s4.cn/*
 *://*.hzjkw.cn/*
 *://*.hzjqhz.com/*
@@ -4371,6 +4369,7 @@
 *://*.op081ek.cn/*
 *://*.opag.buzz/*
 *://*.opeck.cn/*
+*://*.optoviki.buzz/*
 *://*.oqgeyvg.cn/*
 *://*.oqyeiaw.cn/*
 *://*.orbit-marine.buzz/*
@@ -5356,6 +5355,7 @@
 *://*.t0tmdqj.cn/*
 *://*.t109jgz.cn/*
 *://*.t1njhjn.cn/*
+*://*.t2gcap.com/*
 *://*.t2zmjr0.cn/*
 *://*.t3ql4vu.cn/*
 *://*.t3tu774.cn/*
