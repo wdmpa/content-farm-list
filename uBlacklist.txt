@@ -6779,3 +6779,5 @@
 *://*.zzzhtrade.com/*
 *://*.zzzxmryy.com/*
 *://*.zzzysy.com/*
+*://*.jzsalq.com/*
+*://*.km0769.com/*
