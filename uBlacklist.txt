@@ -6781,3 +6781,4 @@
 *://*.zzzhtrade.com/*
 *://*.zzzxmryy.com/*
 *://*.zzzysy.com/*
+*://*.jsmeiguigu.com/*
