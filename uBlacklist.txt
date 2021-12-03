@@ -3372,6 +3372,7 @@
 *://*.jsjzmy.com/*
 *://*.jskm56.com/*
 *://*.jsmaiyu.com/*
+*://*.jsmeiguigu.com/*
 *://*.jsnongnong.com/*
 *://*.jsotransactions.buzz/*
 *://*.jsqst.com/*
@@ -6781,4 +6782,3 @@
 *://*.zzzhtrade.com/*
 *://*.zzzxmryy.com/*
 *://*.zzzysy.com/*
-*://*.jsmeiguigu.com/*
