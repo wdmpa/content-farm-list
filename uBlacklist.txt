@@ -5562,6 +5562,7 @@
 *://*.tudou478.cn/*
 *://*.tudou56.com/*
 *://*.tudoudileii.com/*
+*://*.tuokehj.com/*
 *://*.turf-seed-china.buzz/*
 *://*.tusfam.com/*
 *://*.tuvanduhoc.buzz/*
@@ -6782,4 +6783,3 @@
 *://*.zzzhtrade.com/*
 *://*.zzzxmryy.com/*
 *://*.zzzysy.com/*
-*://*.tuokehj.com/*
