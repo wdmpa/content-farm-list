@@ -432,7 +432,6 @@
 .365dxpt.com
 .365town.cn
 .366ro4o.cn
-.366service.com
 .369bt.cn
 .36ho.com
 .36wi.com
@@ -1175,7 +1174,6 @@
 .ancestryworldtree.buzz
 .andre-aimaq.buzz
 .andreasteunzer.buzz
-.androidcookie.com
 .anercn.com
 .angelalbum.buzz
 .anhuijuxin.com
@@ -1254,7 +1252,6 @@
 .asgvas.cn
 .asiannexus.buzz
 .asians-xxx.buzz
-.ask.helplib.com
 .asklight.cn
 .askraft.buzz
 .assurancesmeilleur.buzz
@@ -1748,7 +1745,6 @@
 .cmnjmy.com
 .cmoa43r.cn
 .cmsay.com
-#cn.voidcc.com
 .cn0931.cn
 .cn2u39.cn
 .cn3hr3g.cn
@@ -1771,7 +1767,6 @@
 .cnsasj.com
 .cnvbea.cn
 .coddagn.cn
-.codenong.com
 .coffee2tea.com
 .cognizantcorp.buzz
 .coirliner.com
@@ -1877,9 +1872,7 @@
 .cxhlawyer.com
 .cxjinshu.com
 .cxmht.com
-.cxymm.net
 .cxyy0429.cn
-.cxyzjd.com
 .cxz114.com
 .cy0734.com
 .cy938.com
@@ -2056,7 +2049,6 @@
 .dormgoodies.buzz
 .doufuuii.com
 .douyinluansha.cn
-.dovov.com
 .download-warehouse.buzz
 .dpkc8sm.cn
 .dpsmarutikunj.buzz
@@ -3165,7 +3157,6 @@
 .itaotaotao.com
 .itchosun.buzz
 .itmpi-journal.buzz
-.itranslater.com
 .itvgm.cn
 .iuggqtr.cn
 .iuwenhua.com
@@ -3490,7 +3481,6 @@
 .kangmile.cn
 .kanneenkruike.buzz
 .kawauso-net.buzz
-#kb.kutu66.com
 .kb113dh.cn
 .kbie4ab.cn
 .kbkb7.com
@@ -3572,7 +3562,6 @@
 .konka7556.com
 .koon4.cn
 .kos5bcz.cn
-.koubeiblog.com
 .kozykatskorner.buzz
 .kpgbq.com
 .kpk91o0.cn
@@ -4028,7 +4017,6 @@
 .mlg8.cn
 .mlgongyi.com
 .mlj518.com
-.mlog.club
 .mlps6q6.cn
 .mlq90rw.cn
 .mlr8.cn
@@ -4380,7 +4368,6 @@
 .online-green.buzz
 .ons123.cn
 .ooea394.cn
-.oomake.com
 .op081ek.cn
 .opag.buzz
 .opeck.cn
@@ -4630,25 +4617,7 @@
 .q844h.cn
 .q8ab.com
 .q9vmpio.cn
-#qa.1r1g.com
 .qacjjc.com
-.qastack.cn
-.qastack.co.in
-.qastack.com.br
-.qastack.com.de
-.qastack.com.ua
-.qastack.fr
-.qastack.id
-.qastack.in
-.qastack.in.th
-.qastack.info.tr
-.qastack.it
-.qastack.jp
-.qastack.kr
-.qastack.lk
-.qastack.mx
-.qastack.ru
-.qastack.vn
 .qazoynb.cn
 .qbl8.cn
 .qbslipc.cn
@@ -4829,7 +4798,6 @@
 .readmeisle.cn
 .realestatetagtw.com
 .rebatesu.com
-.recalll.co
 .redspicks.buzz
 .redsunbaby.cn
 .redveronica.buzz
@@ -5221,7 +5189,6 @@
 .sogo16888.com
 .soho-village.buzz
 .sohopromo.buzz
-.soinside.com
 .solutions-team.buzz
 .songhepx.com
 .songnidianqi.cn
@@ -5267,8 +5234,6 @@
 .ssxdpc.cn
 .sszyqz.com
 .st89.cn
-.stackoom.com
-.stackoverrun.com
 .stanaback.buzz
 .star-walk.buzz
 .star0s.com
@@ -5476,7 +5441,6 @@
 .thesurfsiders.buzz
 .thevelvetheaven.buzz
 .thhsc.com
-.thinbug.com
 .thnmjjrxh.com
 .thooinc.com
 .threeooo.com
@@ -5783,7 +5747,6 @@
 .vns653.cn
 .vns733.cn
 .vo656yq.cn
-.voidcn.com
 .volprixreduit.buzz
 .vpfwzjt.cn
 .vplugins.com
