@@ -329,6 +329,7 @@
 *://*.21shipping-ams.buzz/*
 *://*.21zhongyao.com/*
 *://*.2201343.cn/*
+*://*.222.5634111.com/*
 *://*.2277449.cn/*
 *://*.228cp.cn/*
 *://*.229cq.com/*
@@ -2439,6 +2440,7 @@
 *://*.fzlive.cn/*
 *://*.fzsmlcn.com/*
 *://*.fzxunjie.com/*
+*://*.g.penzai.com/*
 *://*.g0bcd5.cn/*
 *://*.g0jq8li.cn/*
 *://*.g25cmfn.cn/*
@@ -2493,6 +2495,7 @@
 *://*.gdzsgb.cn/*
 *://*.gear88.com/*
 *://*.gebvrl0.cn/*
+*://*.geek-share.com/*
 *://*.geekbing.com/*
 *://*.gegoods.com/*
 *://*.gelanbao.cn/*
@@ -3160,6 +3163,7 @@
 *://*.itchosun.buzz/*
 *://*.itmpi-journal.buzz/*
 *://*.itvgm.cn/*
+*://*.ityouknow.com/*
 *://*.iuggqtr.cn/*
 *://*.iuwenhua.com/*
 *://*.iuywe.cn/*
@@ -3195,6 +3199,7 @@
 *://*.jakdsy.com/*
 *://*.jakdy.com/*
 *://*.jamyi.com/*
+*://*.javazhiyin.com/*
 *://*.jaweno.com/*
 *://*.jayagy.com/*
 *://*.jayity.com/*
@@ -3531,6 +3536,7 @@
 *://*.kjoutij.cn/*
 *://*.kkaitang.com/*
 *://*.kkkdv.com/*
+*://*.kknews.cc/*
 *://*.kkrxc15.cn/*
 *://*.klk8.cn/*
 *://*.klmnv.cn/*
@@ -4373,6 +4379,7 @@
 *://*.op081ek.cn/*
 *://*.opag.buzz/*
 *://*.opeck.cn/*
+*://*.opris.chengjinzm.com/*
 *://*.optoviki.buzz/*
 *://*.oqgeyvg.cn/*
 *://*.oqyeiaw.cn/*
@@ -4403,6 +4410,7 @@
 *://*.oven0208.cn/*
 *://*.overbridge.cn/*
 *://*.owlinns.com/*
+*://*.owyje.0818hj.com/*
 *://*.oxinxian.com/*
 *://*.oxxsufvc.cn/*
 *://*.oy6189999.com/*
@@ -6719,6 +6727,7 @@
 *://*.zsmcl.com/*
 *://*.zsmulan.com/*
 *://*.zsqltz.com/*
+*://*.zst.ljyhky.com/*
 *://*.zswntech.com/*
 *://*.ztguolu.com/*
 *://*.ztjianfa.com/*
