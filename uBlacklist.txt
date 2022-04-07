@@ -1773,6 +1773,7 @@
 *://*.coiszke.cn/*
 *://*.colyi.cn/*
 *://*.com-car.buzz/*
+*://*.com.mx/*
 *://*.comdevtech.buzz/*
 *://*.compmemory.buzz/*
 *://*.compraguapa.buzz/*
