@@ -20,8 +20,7 @@ jobs:
 
     - name: Optimize
       run: |
-        cd scripts
-        python optimizer.py
+        python scripts/optimizer.py
 
     - name: Commit
       run: |
