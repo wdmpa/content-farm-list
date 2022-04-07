@@ -1,4 +1,4 @@
-# 「小搭百科网」类内容农场网站清单
+# 内容农场网站清单
 
 Google 中文搜索结果包含了相当一部分的内容农场式条目，比如「小 X 知识网」「小 X 百科网」。此种链接常会 302 重定向其主站，页面内容为自动生成，大量堆叠关键字，揉杂一些爬取到的内容，完全不具可读性和参考价值。
 
@@ -12,31 +12,40 @@ Google 中文搜索结果包含了相当一部分的内容农场式条目，比�
 
 使用正则匹配标题的方式不能完全屏蔽，所以为方便广大网友过滤搜索结果，特整理此清单。
 
-由于此次事件主角「小搭百科网」在造成影响后[主动关站](https://www.v2ex.com/t/807150 )，所以接下来也将关注、收录其他的类似内容农场站。（所以 penzai-list 可以解释成「翉粪水喷涌之灾清单」？）
+由于此次事件主角「小搭百科网」在造成影响后[主动关站](https://www.v2ex.com/t/807150 )，所以接下来也将关注、收录其他的类似内容农场站。
 
 ## 使用方式
 
+### uBlacklist
 安装 [uBlacklist](https://github.com/iorate/uBlacklist)：
 
 [Chrome Web Store](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe) / [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/ublacklist/) / [App Store](https://apps.apple.com/us/app/ublacklist-for-safari/id1547912640) (for macOS and iOS)
 
-后进入 'Option' 菜单，点击 'Add a subscription'，输入如下内容：
+后进入 `Option` 菜单，点击 `Add a subscription`，输入如下内容：
 
-* `Name`: `penzai-list`
-* `URL`: `https://raw.githubusercontent.com/dallaslu/penzai-list/main/uBlacklist.txt`
+* `Name`: `content-farm-list`
+* `URL`: `https://raw.githubusercontent.com/wdmpa/content-farm-list/main/uBlacklist.txt`
+
+或
+
+* `Name`: `content-farm-list`
+* `URL`: `https://wdmpa.org/content-farm-list/uBlacklist.txt`
 
 单击 'Add' 按钮。
 
-### 设置搜索引擎
+### Google Hit Hider
 
-因与清单中域名匹配的结果会被移除，所以搜索引擎的结果页剩余条目太少，不便浏览，建议登录后设置搜索结果显示为每页面 100 条。
+<http://www.jeffersonscher.com/gm/google-hit-hider/>
 
-##  我们能做什么？
+#### Install
 
-### 一、发 PR 添加域名
+[Grease Fork](https://greasyfork.org/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites) / [OpenUserJS.org](https://openuserjs.org/scripts/jscher2000/Google_Hit_Hider_by_Domain_%28Search_Filter_Block_Sites%29)
 
-1. 从本地插件 uBlacklist 中导出域名列表
-2. 在搜索引擎中尝试长尾关键词，以发现更多目前权重尚低的农场域名
+#### Manage lists
+
+<http://www.jeffersonscher.com/gm/google-hit-hider/manage-lists.php>
+
+## 订阅说明
 
 | 文件 | 说明 |  
 | -- | -- |  
@@ -47,7 +56,25 @@ Google 中文搜索结果包含了相当一部分的内容农场式条目，比�
 | `uBlacklist/machine-translated/stackoverflow.txt` | uBlacklist 专用机翻 StackOverflow 域名集合|  
 | `Surge/machine-translated/stackoverflow.txt` | Surge 专用机翻 StackOverflow 域名集合|
 
+## 设置搜索引擎
+
+因与清单中域名匹配的结果会被移除，所以搜索引擎的结果页剩余条目太少，不便浏览，建议登录后设置搜索结果显示为每页面 100 条。
+
+## 我们能做什么？
+
+### 一、发 PR 添加域名
+
+1. 从本地插件 uBlacklist 中导出域名列表
+2. 在搜索引擎中尝试长尾关键词，以发现更多目前权重尚低的农场域名
+
 按结构在 `domains` 目录中添加新的分类集合文件。参考文件中已有内容的格式，在任意位置添加即可。（Fork 本仓库后编辑再 Push，或在页面中编辑均可。）
+
+| 文件 | 说明 |  
+| -- | -- |  
+| `domains/spam/g.penzai.com.txt` | 小搭百科网域名集合| 
+| `domains/machine-translated/stackoverflow.txt` | 机翻 StackOverflow 域名集合| 
+
+提交后，脚本会自动更新订阅文件中的内容。
 
 ### 二、举报
 
