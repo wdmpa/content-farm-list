@@ -1,3 +1,4 @@
+*://*.155.138.230.158/*
 *://*.159.138.37.243/*
 *://*.cxybb.com/*
 *://*.cxydev.cc/*
@@ -6,7 +7,10 @@
 *://*.cxyread.cc/*
 *://*.cxyzd.xyz/*
 *://*.cxyzjd.com/*
+*://*.houseword.com/*
 *://*.its201.com/*
+*://*.its203.com/*
+*://*.its301.com/*
 *://*.its304.com/*
 *://*.its401.com/*
 *://*.its404.com/*
