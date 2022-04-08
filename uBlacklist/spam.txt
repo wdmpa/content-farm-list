@@ -218,6 +218,7 @@
 *://*.1546805.cn/*
 *://*.15888st.com/*
 *://*.158mz.cn/*
+*://*.159.138.37.243/*
 *://*.1594331.cn/*
 *://*.15lq.cn/*
 *://*.163bk.cn/*
@@ -1875,8 +1876,12 @@
 *://*.cxjinshu.com/*
 *://*.cxmht.com/*
 *://*.cxybb.com/*
+*://*.cxydev.cc/*
+*://*.cxygjd.com/*
 *://*.cxymm.net/*
+*://*.cxyread.cc/*
 *://*.cxyy0429.cn/*
+*://*.cxyzd.xyz/*
 *://*.cxyzjd.com/*
 *://*.cxz114.com/*
 *://*.cy0734.com/*
@@ -3164,6 +3169,11 @@
 *://*.itaotaotao.com/*
 *://*.itchosun.buzz/*
 *://*.itmpi-journal.buzz/*
+*://*.its201.com/*
+*://*.its304.com/*
+*://*.its401.com/*
+*://*.its404.com/*
+*://*.its500.com/*
 *://*.itvgm.cn/*
 *://*.ityouknow.com/*
 *://*.iuggqtr.cn/*
