@@ -15,9 +15,12 @@ def main():
 
 def optimize(input_path, output_root):
     domains = set()
-    if os.path.isfile(input_path) and input_path.endswith(".txt"):
-        domains.update(read_file(input_path, r'^\*://(?:\*\.)?([\w\-\.]+)/\*'))
-        output_root = os.path.join(output_root, os.path.splitext(os.path.basename(input_path))[0])
+    if os.path.isfile(input_path):
+        if input_path.endswith(".txt"):
+            domains.update(read_file(input_path, r'^\*://(?:\*\.)?([\w\-\.]+)/\*'))
+            output_root = os.path.join(output_root, os.path.splitext(os.path.basename(input_path))[0])
+        else:
+            return []
     else:
         files = os.listdir(input_path)
         for file in files:
