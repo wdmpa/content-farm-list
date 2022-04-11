@@ -337,9 +337,11 @@
 *://*.229cq.com/*
 *://*.22ggg.cn/*
 *://*.22head.com/*
+*://*.231327.com/*
 *://*.231395.com/*
 *://*.23233.com.cn/*
 *://*.23539876.com/*
+*://*.23cpc.com/*
 *://*.23e8.com/*
 *://*.23yhj.com/*
 *://*.247hc0q.cn/*
@@ -4565,6 +4567,7 @@
 *://*.pnelwjz.cn/*
 *://*.pnih1wn.cn/*
 *://*.pns8.cn/*
+*://*.pny9.com/*
 *://*.poemsoft.com/*
 *://*.poetnamelife.buzz/*
 *://*.poid7.cn/*
@@ -4637,6 +4640,8 @@
 *://*.pxyz760.cn/*
 *://*.pxz8.cn/*
 *://*.pyax021.cn/*
+*://*.pyk696.com/*
+*://*.pyk868.com/*
 *://*.pzdyj.com/*
 *://*.pzhfly.cn/*
 *://*.pzhnanke.com/*
