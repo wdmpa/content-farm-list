@@ -3564,6 +3564,7 @@
 *://*.kkkdv.com/*
 *://*.kknews.cc/*
 *://*.kkrxc15.cn/*
+*://*.kkup.cc/*
 *://*.klk8.cn/*
 *://*.klmnv.cn/*
 *://*.klqcw.cn/*
@@ -3614,6 +3615,7 @@
 *://*.ksjd3.cn/*
 *://*.ksjd9.cn/*
 *://*.ksjds3.cn/*
+*://*.ksou.cc/*
 *://*.kt13fly.cn/*
 *://*.kt686.cn/*
 *://*.ktrsz.cn/*
@@ -4219,6 +4221,7 @@
 *://*.ndj16ok.cn/*
 *://*.ndpadvertising.buzz/*
 *://*.ndshs.com/*
+*://*.ndup.cc/*
 *://*.ne328.cn/*
 *://*.nefertitirecords.buzz/*
 *://*.nelsonespeland.buzz/*
@@ -5881,6 +5884,7 @@
 *://*.wbduan.com/*
 *://*.wbh360.com/*
 *://*.wbmob.com/*
+*://*.wbnn.cc/*
 *://*.wc95.cn/*
 *://*.wcnojz.cn/*
 *://*.wcr8.cn/*
@@ -6678,6 +6682,7 @@
 *://*.zhexuexi.cn/*
 *://*.zhexzgc.com/*
 *://*.zhezhentan.com/*
+*://*.zhfx.cc/*
 *://*.zhggcss.cn/*
 *://*.zhhmcm.com/*
 *://*.zhhyst.com/*

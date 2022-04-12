@@ -1,0 +1,5 @@
+*://*.kkup.cc/*
+*://*.ksou.cc/*
+*://*.ndup.cc/*
+*://*.wbnn.cc/*
+*://*.zhfx.cc/*
