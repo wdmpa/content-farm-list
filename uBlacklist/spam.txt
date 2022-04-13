@@ -1415,6 +1415,7 @@
 *://*.bhlzyy.com/*
 *://*.bhsou.cc/*
 *://*.bi8n0u8.cn/*
+*://*.bianmawd.cc/*
 *://*.bicycle-zone.buzz/*
 *://*.bijnchr.cn/*
 *://*.bikinidomains.buzz/*
@@ -1472,6 +1473,7 @@
 *://*.bjzswdxf.com/*
 *://*.bk8848.cn/*
 *://*.bkmhgc0.cn/*
+*://*.bkrk.cc/*
 *://*.bl8t0xj.cn/*
 *://*.blackmesatrading.buzz/*
 *://*.blacktiny.buzz/*
@@ -1779,6 +1781,7 @@
 *://*.cnsasj.com/*
 *://*.cnvbea.cn/*
 *://*.coddagn.cn/*
+*://*.codewdw.com/*
 *://*.coffee2tea.com/*
 *://*.cognizantcorp.buzz/*
 *://*.coirliner.com/*
@@ -4639,6 +4642,7 @@
 *://*.pw28.cn/*
 *://*.pwf8.cn/*
 *://*.pwl8.cn/*
+*://*.pwpc.cc/*
 *://*.pwv8qi8.cn/*
 *://*.px55.cn/*
 *://*.pxb8.cn/*

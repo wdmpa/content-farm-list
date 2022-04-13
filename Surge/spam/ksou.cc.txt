@@ -3,7 +3,10 @@
 .amww.cc
 .anysearch.cc
 .bhsou.cc
+.bianmawd.cc
+.bkrk.cc
 .bqtt.cc
+.codewdw.com
 .daimaqa.com
 .daxd.cc
 .ensou.cc
@@ -19,6 +22,7 @@
 .ndup.cc
 .pbup.cc
 .pknn.cc
+.pwpc.cc
 .qacc.cc
 .qybv.cc
 .tdww.cc
