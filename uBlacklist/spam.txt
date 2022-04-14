@@ -665,6 +665,7 @@
 *://*.54496.cn/*
 *://*.54gsl.com/*
 *://*.55468z8.cn/*
+*://*.555.gd/*
 *://*.5558xx.com/*
 *://*.555iw.com/*
 *://*.55667766.com/*
@@ -2764,6 +2765,7 @@
 *://*.happy128.com/*
 *://*.happy1801.com/*
 *://*.harrysurplus.buzz/*
+*://*.hashbet.casino/*
 *://*.hawaii-jewelry.buzz/*
 *://*.haxituan.com/*
 *://*.hb0027.cn/*
@@ -3165,6 +3167,7 @@
 *://*.inndulgehotel.buzz/*
 *://*.innerloop-prod.buzz/*
 *://*.innxm.com/*
+*://*.int.bet/*
 *://*.integratedpaperservice.buzz/*
 *://*.intellisys-haiti.buzz/*
 *://*.internet-masters.buzz/*
@@ -3551,6 +3554,7 @@
 *://*.kesma.cn/*
 *://*.ketingtc.com/*
 *://*.kexinfood.com/*
+*://*.key.dog/*
 *://*.kfpza.cn/*
 *://*.kg1xzz.cn/*
 *://*.kgn8.cn/*
@@ -3742,6 +3746,7 @@
 *://*.lgfvci.cn/*
 *://*.lgx168.com/*
 *://*.lhafy.com/*
+*://*.lhc.bet/*
 *://*.lhdwoug.cn/*
 *://*.lheqn5u.cn/*
 *://*.lhft158.com/*
@@ -4214,6 +4219,7 @@
 *://*.nbtfglxs.com/*
 *://*.nbxiyaf.cn/*
 *://*.nbyunhaijx.cn/*
+*://*.nbz.ai/*
 *://*.nbzlmc.com/*
 *://*.nc3w7xk.cn/*
 *://*.ncb8.cn/*
@@ -5275,6 +5281,7 @@
 *://*.sqbqzs.com/*
 *://*.sqf2a4r.cn/*
 *://*.sqhnxw.com/*
+*://*.sql.la/*
 *://*.sqn8.cn/*
 *://*.sqp.buzz/*
 *://*.sr0csj.cn/*
@@ -5289,6 +5296,7 @@
 *://*.ssglnkyy.com/*
 *://*.ssiatvh.cn/*
 *://*.ssjxhy.com/*
+*://*.ssl.bet/*
 *://*.ssnkr.cn/*
 *://*.ssq02.com/*
 *://*.ssq13.com/*
