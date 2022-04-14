@@ -2,10 +2,14 @@
 .agpn.cc
 .amww.cc
 .anysearch.cc
+.aqtt.cc
+.bcqaw.com
 .bhsou.cc
 .bianmawd.cc
 .bkrk.cc
 .bqtt.cc
+.bupn.cc
+.chsou.cc
 .codewdw.com
 .daimaqa.com
 .daxd.cc
@@ -29,8 +33,10 @@
 .tqcc.cc
 .unzx.cc
 .wbnn.cc
+.wkto.cc
 .xbto.cc
 .xfto.cc
+.xppc.cc
 .yifx.cc
 .zhfx.cc
 .zxsou.cc
