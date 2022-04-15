@@ -2122,6 +2122,7 @@
 .dw6kjh0.cn
 .dw873.com
 .dwwgame.com
+.dwws.cc
 .dwxmnl.com
 .dxofjmd.cn
 .dxwueg5.cn
@@ -4143,6 +4144,7 @@
 .msn-int-at.buzz
 .msn-int-ch.buzz
 .msn-int-no.buzz
+.mspp.cc
 .mstj120.com
 .mt8u0zd.cn
 .mteng.cn

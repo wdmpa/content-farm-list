@@ -13,6 +13,7 @@
 *://*.codewdw.com/*
 *://*.daimaqa.com/*
 *://*.daxd.cc/*
+*://*.dwws.cc/*
 *://*.ensou.cc/*
 *://*.erjiinfo.com/*
 *://*.hnup.cc/*
@@ -23,6 +24,7 @@
 *://*.linksou.cc/*
 *://*.menf.cc/*
 *://*.mississippifaithinaction.org/*
+*://*.mspp.cc/*
 *://*.ndup.cc/*
 *://*.pbup.cc/*
 *://*.pknn.cc/*
