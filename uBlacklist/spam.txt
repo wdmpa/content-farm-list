@@ -1184,6 +1184,7 @@
 *://*.ancestryworldtree.buzz/*
 *://*.andre-aimaq.buzz/*
 *://*.andreasteunzer.buzz/*
+*://*.androidwd.cc/*
 *://*.anercn.com/*
 *://*.angelalbum.buzz/*
 *://*.anhuijuxin.com/*
@@ -1943,6 +1944,7 @@
 *://*.dadayx.com/*
 *://*.daewoohair.buzz/*
 *://*.daimaqa.com/*
+*://*.daimazxw.com/*
 *://*.daiyun787.cn/*
 *://*.dakashoutu.com/*
 *://*.dalianxinke.cn/*
@@ -1953,6 +1955,7 @@
 *://*.dansww.buzz/*
 *://*.daogoutuan.com/*
 *://*.daosuchaokuai.cn/*
+*://*.dasearch.cc/*
 *://*.dashangvip.com/*
 *://*.dashdirectory.buzz/*
 *://*.dashen365.com/*
@@ -2098,6 +2101,7 @@
 *://*.dsjhd2.cn/*
 *://*.dsmmjd.com/*
 *://*.dt813.com/*
+*://*.dtpn.cc/*
 *://*.du4rg35.cn/*
 *://*.dubaipga.buzz/*
 *://*.dublinpages.buzz/*
@@ -2118,6 +2122,7 @@
 *://*.dwwgame.com/*
 *://*.dwws.cc/*
 *://*.dwxmnl.com/*
+*://*.dxcc.cc/*
 *://*.dxofjmd.cn/*
 *://*.dxwueg5.cn/*
 *://*.dy1633.com/*
@@ -2225,6 +2230,7 @@
 *://*.enonled.com/*
 *://*.enrushi123.com/*
 *://*.ensou.cc/*
+*://*.enww.cc/*
 *://*.eodkieldt.cn/*
 *://*.eoncon.com/*
 *://*.epcrs1j.cn/*
@@ -3242,6 +3248,7 @@
 *://*.jakdsy.com/*
 *://*.jakdy.com/*
 *://*.jamyi.com/*
+*://*.javacodeqa.cc/*
 *://*.javazhiyin.com/*
 *://*.jaweno.com/*
 *://*.jayagy.com/*
@@ -4039,6 +4046,7 @@
 *://*.mf6zksr.cn/*
 *://*.mfcdk.com/*
 *://*.mfonly.com/*
+*://*.mfww.cc/*
 *://*.mgg56rs.cn/*
 *://*.mguess.com/*
 *://*.mh223.cn/*
@@ -4508,6 +4516,7 @@
 *://*.pcizplv.cn/*
 *://*.pclbjk0.cn/*
 *://*.pcm-capital.buzz/*
+*://*.pctantao.com/*
 *://*.pcuovl.cn/*
 *://*.pczdyc.com/*
 *://*.pd4xe56.cn/*
@@ -4546,6 +4555,7 @@
 *://*.photocaro-inc.buzz/*
 *://*.photoproxi.buzz/*
 *://*.photosyu.com/*
+*://*.phpqaw.cc/*
 *://*.phqyauh.cn/*
 *://*.phxgmy.com/*
 *://*.pic01nm.cn/*
@@ -4669,6 +4679,7 @@
 *://*.pyax021.cn/*
 *://*.pyk696.com/*
 *://*.pyk868.com/*
+*://*.pythonwd.com/*
 *://*.pzdyj.com/*
 *://*.pzhfly.cn/*
 *://*.pzhnanke.com/*
@@ -5268,6 +5279,7 @@
 *://*.sop5fzr.cn/*
 *://*.sosocp.cn/*
 *://*.soumeiyi.com/*
+*://*.souquan.cc/*
 *://*.southprong.buzz/*
 *://*.soyocm.cn/*
 *://*.spfsp.com/*
@@ -5771,8 +5783,10 @@
 *://*.vaucleroy.buzz/*
 *://*.vaw3ti9.cn/*
 *://*.vbfordummies.buzz/*
+*://*.vbup.cc/*
 *://*.vcepo9s.cn/*
 *://*.vdai88.com/*
+*://*.vddr.cc/*
 *://*.vdohuwai.com/*
 *://*.vemate.com/*
 *://*.veqwwe.cn/*
@@ -6196,6 +6210,7 @@
 *://*.xinchangda.com.cn/*
 *://*.xinchunzz.com/*
 *://*.xinclub.cn/*
+*://*.xindd.cc/*
 *://*.xinfuhui.cn/*
 *://*.xingkaidec.com/*
 *://*.xinguiseo.com/*
