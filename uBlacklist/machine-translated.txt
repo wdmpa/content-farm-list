@@ -25,6 +25,7 @@
 *://*.qastack.kr/*
 *://*.qastack.lk/*
 *://*.qastack.mx/*
+*://*.qastack.net.bd/*
 *://*.qastack.ru/*
 *://*.qastack.vn/*
 *://*.recalll.co/*
