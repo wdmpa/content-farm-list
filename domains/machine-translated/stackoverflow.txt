@@ -39,3 +39,4 @@
 *://recalll.co/*
 *://www.dovov.com/*
 *://itranslater.com/*
+*://qastack.net.bd/*
