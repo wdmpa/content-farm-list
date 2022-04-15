@@ -1343,6 +1343,7 @@
 *://*.bamuyi.com/*
 *://*.bandwidth9.buzz/*
 *://*.banfun.cn/*
+*://*.bangbogl.com/*
 *://*.banginbooty.buzz/*
 *://*.bangmaer.com/*
 *://*.bangmeili.com/*
@@ -1430,6 +1431,7 @@
 *://*.bhsou.cc/*
 *://*.bi8n0u8.cn/*
 *://*.bianmawd.cc/*
+*://*.biaoqingb.com/*
 *://*.bicycle-zone.buzz/*
 *://*.bijnchr.cn/*
 *://*.bikinidomains.buzz/*
@@ -1515,6 +1517,7 @@
 *://*.bnshou.com/*
 *://*.boardersedge.buzz/*
 *://*.boaterssource.buzz/*
+*://*.bobtiyubob.com/*
 *://*.bobvea.cn/*
 *://*.bodizi.com/*
 *://*.bodyforlifediaries.buzz/*
@@ -1567,6 +1570,7 @@
 *://*.btlhxzz.com/*
 *://*.bubuzhe.com/*
 *://*.buccelli.buzz/*
+*://*.bugelun.com/*
 *://*.buitragonotaria.buzz/*
 *://*.bulinwh.com/*
 *://*.bupn.cc/*
@@ -1576,6 +1580,7 @@
 *://*.businesstagtw.com/*
 *://*.buwoline.buzz/*
 *://*.buyhomehub.cn/*
+*://*.bvmfh.top/*
 *://*.bwclkkh.cn/*
 *://*.bx8z.cn/*
 *://*.bxaih.com/*
@@ -1697,6 +1702,7 @@
 *://*.cgsofts.com/*
 *://*.cgwindows.cn/*
 *://*.cgzjj.com/*
+*://*.chalidehb.com/*
 *://*.chandaotx.com/*
 *://*.chanect.com/*
 *://*.chang-zheng.cn/*
@@ -2029,6 +2035,7 @@
 *://*.devk-agentur.buzz/*
 *://*.deyu1688.com/*
 *://*.dfjdtz.com/*
+*://*.dflkj.top/*
 *://*.dfrzlc.com/*
 *://*.dg4567.com/*
 *://*.dgcxjsy.com/*
@@ -2276,11 +2283,13 @@
 *://*.eqwvd5a.cn/*
 *://*.eqy5ym6.cn/*
 *://*.er3561.cn/*
+*://*.erigd.com/*
 *://*.erjiinfo.com/*
 *://*.erlianhaote1.cn/*
 *://*.eromi.cn/*
 *://*.eroms.cn/*
 *://*.eroomin.com/*
+*://*.ertod.com/*
 *://*.erucdph.cn/*
 *://*.erwinedu.com/*
 *://*.erzet.cc/*
@@ -3957,6 +3966,7 @@
 *://*.luguang.net.cn/*
 *://*.lulugaobag.com/*
 *://*.lunmm.com/*
+*://*.luocige.com/*
 *://*.luogou8.com/*
 *://*.luowendong.com/*
 *://*.luowenling.cn/*
@@ -4676,6 +4686,7 @@
 *://*.poemsoft.com/*
 *://*.poetnamelife.buzz/*
 *://*.poid7.cn/*
+*://*.poiui.top/*
 *://*.poketoys.buzz/*
 *://*.pomdapi-shoes.buzz/*
 *://*.pond-view.buzz/*
@@ -5024,6 +5035,7 @@
 *://*.romancestop.buzz/*
 *://*.rongduansi.com/*
 *://*.ronghuipin.com/*
+*://*.rongyidagl.com/*
 *://*.roseanhome.com/*
 *://*.roycephotographics.buzz/*
 *://*.rp22.cn/*
@@ -6084,6 +6096,7 @@
 *://*.whitehurstclark.buzz/*
 *://*.whitescorporation.buzz/*
 *://*.whjnrj.com/*
+*://*.whldl.com/*
 *://*.whm00f6.cn/*
 *://*.whoisvip.cn/*
 *://*.whpc.cc/*
