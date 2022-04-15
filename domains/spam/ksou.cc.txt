@@ -40,3 +40,5 @@
 *://aqtt.cc/*
 *://xppc.cc/*
 *://bupn.cc/*
+*://mspp.cc/*
+*://dwws.cc/*
