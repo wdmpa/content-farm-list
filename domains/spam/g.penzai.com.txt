@@ -6787,3 +6787,5 @@
 *://*.zzzhtrade.com/*
 *://*.zzzxmryy.com/*
 *://*.zzzysy.com/*
+*://www.ydbaike.club/*
+*://www.bqbaike.work/*
