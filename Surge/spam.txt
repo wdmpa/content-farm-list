@@ -1976,6 +1976,7 @@
 .dapb.cc
 .dape.cc
 .dapg.cc
+.dapx.cc
 .dasearch.cc
 .dashangvip.com
 .dashdirectory.buzz
@@ -2141,6 +2142,7 @@
 .durenzhe.com
 .dushi0375.com
 .dushiqy.com
+.duto.cc
 .dvscc3x.cn
 .dw218.com
 .dw62842.cn
@@ -5842,6 +5844,7 @@
 .used-cnc-locator.buzz
 .userserver.cn
 .usloannet.buzz
+.ussh.cc
 .utouchapp.com
 .utppzuj.buzz
 .utrip365.com
@@ -6220,6 +6223,7 @@
 .wxzthbgc.com
 .wy223.com
 .wy72.cn
+.wyfx.cc
 .wyjvafbc.cn
 .wykfb.com
 .wyspot.com
@@ -6647,6 +6651,7 @@
 .youqug.com
 .youree.buzz
 .yourselfdo.cn
+.yousearch.cc
 .youxwli.com
 .youyaling.com
 .youyelishi.com

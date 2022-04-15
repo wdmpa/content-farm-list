@@ -35,6 +35,7 @@
 .dapb.cc
 .dape.cc
 .dapg.cc
+.dapx.cc
 .dasearch.cc
 .dauc.cc
 .daxd.cc
@@ -44,6 +45,7 @@
 .desou.cc
 .dpcc.cc
 .dtpn.cc
+.duto.cc
 .dwws.cc
 .dxcc.cc
 .efzx.cc
@@ -140,6 +142,7 @@
 .ttgc.cc
 .txccc.cc
 .unzx.cc
+.ussh.cc
 .uvpp.cc
 .vbup.cc
 .vcpc.cc
@@ -160,6 +163,7 @@
 .wsearch.cc
 .wsou.cc
 .wtsearch.cc
+.wyfx.cc
 .xbto.cc
 .xdyv.cc
 .xfto.cc
@@ -174,6 +178,7 @@
 .yhpp.cc
 .yifx.cc
 .yisearch.cc
+.yousearch.cc
 .ypup.cc
 .ysou.cc
 .yunsh.cc
