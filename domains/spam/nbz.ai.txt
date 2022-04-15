@@ -6,3 +6,4 @@
 *://*.key.dog/*
 *://*.ssl.bet/*
 *://*.sql.la/*
+*://*.global-3.xyz/*
