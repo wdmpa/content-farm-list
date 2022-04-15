@@ -6799,8 +6799,6 @@
 *://www.bugelun.com/*
 *://www.erigd.com/*
 *://www.chalidehb.com/*
-*://www.ydbaike.club/*
-*://www.bqbaike.work/*
 *://www.ertod.com/*
 *://www.whldl.com/*
 *://www.bvmfh.top/*
