@@ -456,6 +456,7 @@
 *://*.387u.com/*
 *://*.388625.com/*
 *://*.3985022.com/*
+*://*.3990775.com/*
 *://*.3997015.com/*
 *://*.3adfo7.cn/*
 *://*.3agtl2.cn/*
@@ -684,6 +685,7 @@
 *://*.5588pay.com/*
 *://*.55dabbs.com/*
 *://*.55mjd3s.cn/*
+*://*.55wenda.top/*
 *://*.5634111.com/*
 *://*.565zt2.cn/*
 *://*.5688p.cn/*
@@ -1089,6 +1091,7 @@
 *://*.actioncamfilms.buzz/*
 *://*.actorssupplies.buzz/*
 *://*.actuaireonline.buzz/*
+*://*.acuolea.xyz/*
 *://*.acvu.cn/*
 *://*.acxvv.com/*
 *://*.ad-write.buzz/*
