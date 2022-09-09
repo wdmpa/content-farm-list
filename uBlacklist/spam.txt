@@ -2,6 +2,7 @@
 *://*.003zuqiu.com/*
 *://*.006xb.cn/*
 *://*.007-security.buzz/*
+*://*.0077851.com/*
 *://*.007ly3e.cn/*
 *://*.007sx.cn/*
 *://*.0086cnc.com/*
@@ -217,6 +218,8 @@
 *://*.151yutm.cn/*
 *://*.1546805.cn/*
 *://*.155.138.230.158/*
+*://*.1577195.com/*
+*://*.1579578.com/*
 *://*.15888st.com/*
 *://*.158mz.cn/*
 *://*.159.138.37.243/*
@@ -451,6 +454,8 @@
 *://*.37orog3.cn/*
 *://*.387u.com/*
 *://*.388625.com/*
+*://*.3985022.com/*
+*://*.3997015.com/*
 *://*.3adfo7.cn/*
 *://*.3agtl2.cn/*
 *://*.3balao.com/*
@@ -661,6 +666,7 @@
 *://*.52zrm.com/*
 *://*.52zswl.com/*
 *://*.5339901.com/*
+*://*.5339902.com/*
 *://*.535love.com/*
 *://*.53so79u.cn/*
 *://*.541852.com/*
@@ -683,7 +689,9 @@
 *://*.56dotour.buzz/*
 *://*.56dy56.cn/*
 *://*.56gouwu.com/*
+*://*.5712001.com/*
 *://*.5712007.com/*
+*://*.5722011.com/*
 *://*.572cq.com/*
 *://*.576nkp.cn/*
 *://*.586nwh.cn/*
@@ -820,6 +828,7 @@
 *://*.7609ix5.cn/*
 *://*.760cf.com/*
 *://*.764pk.com/*
+*://*.7661552.com/*
 *://*.766km.cn/*
 *://*.7671117.com/*
 *://*.76likyx.cn/*
@@ -884,6 +893,7 @@
 *://*.80jep4o.cn/*
 *://*.8107778.com/*
 *://*.8122700.com/*
+*://*.8122800.com/*
 *://*.8122900.com/*
 *://*.81823333.com/*
 *://*.81jmb.com/*
@@ -1630,6 +1640,7 @@
 *://*.cahors-la.buzz/*
 *://*.caida168.com/*
 *://*.caiguoxww.com/*
+*://*.caihongta.com/*
 *://*.cailaiipo.com/*
 *://*.cailunwang.com/*
 *://*.cainiao51.com/*
@@ -2028,6 +2039,7 @@
 *://*.dc0714.com/*
 *://*.dc755wn.cn/*
 *://*.dcchildcustody.buzz/*
+*://*.dcep676.com/*
 *://*.ddccaa.com/*
 *://*.dddzywq.cn/*
 *://*.ddjone.com/*
@@ -2391,6 +2403,7 @@
 *://*.fanzhitech.com/*
 *://*.fastenerinventories.buzz/*
 *://*.fatnvc.cn/*
+*://*.fb99778.com/*
 *://*.fbadorp.cn/*
 *://*.fbijeans.cn/*
 *://*.fc912.com/*
@@ -2400,9 +2413,15 @@
 *://*.fciwifi.com/*
 *://*.fdccpw.com/*
 *://*.fdctop.cn/*
+*://*.fdf28.com/*
+*://*.fdf29.com/*
 *://*.fdf30.com/*
 *://*.fdf35.com/*
+*://*.fdf38.com/*
+*://*.fdf39.com/*
+*://*.fdf40.com/*
 *://*.fdf48.com/*
+*://*.fdf55.com/*
 *://*.fdjm99.com/*
 *://*.fdmwcl4.cn/*
 *://*.fdtwgg.com/*
@@ -2741,6 +2760,7 @@
 *://*.gubaizx.com/*
 *://*.guchengol.com/*
 *://*.guerilla-medien.buzz/*
+*://*.guewr.com/*
 *://*.guheihei.com/*
 *://*.guide-internaute.buzz/*
 *://*.gujisc.com/*
@@ -3551,6 +3571,7 @@
 *://*.juqingtang.com/*
 *://*.jus065o.cn/*
 *://*.jushengseo.com/*
+*://*.justinjeffrey.com/*
 *://*.juwymg.cn/*
 *://*.jvagf.cn/*
 *://*.jvhzq9c.cn/*
@@ -3653,6 +3674,7 @@
 *://*.kelly99.buzz/*
 *://*.kemicloud.com/*
 *://*.kenneltbob.buzz/*
+*://*.kergi.top/*
 *://*.kesicqh.cn/*
 *://*.kesma.cn/*
 *://*.ketingtc.com/*
