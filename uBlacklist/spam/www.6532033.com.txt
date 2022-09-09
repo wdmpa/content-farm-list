@@ -19,6 +19,7 @@
 *://*.5722011.com/*
 *://*.5722099.com/*
 *://*.63458cp.com/*
+*://*.6532011.com/*
 *://*.6532033.com/*
 *://*.6532055.com/*
 *://*.6532066.com/*
@@ -42,6 +43,7 @@
 *://*.bugelun.com/*
 *://*.caihongta.com/*
 *://*.chabuduoyang.com/*
+*://*.daquandaquan.com/*
 *://*.dcep676.com/*
 *://*.djnegroup.com/*
 *://*.easyfootage.com/*
@@ -55,6 +57,7 @@
 *://*.fdf38.com/*
 *://*.fdf39.com/*
 *://*.fdf40.com/*
+*://*.fdf42.com/*
 *://*.fdf43.com/*
 *://*.fdf48.com/*
 *://*.fdf50.com/*
@@ -74,6 +77,7 @@
 *://*.txtlist.top/*
 *://*.xklbf.top/*
 *://*.yumaitie.com/*
+*://*.zhiyintucao.xyz/*
 *://*.zjkge.top/*
 *://*.zongmeimei.com/*
 *://*.zx75551.com/*
