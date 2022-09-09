@@ -163,6 +163,7 @@
 *://*.0y4peu.cn/*
 *://*.1000lily.com/*
 *://*.1004usa.buzz/*
+*://*.1005711.com/*
 *://*.1008-6.cn/*
 *://*.1010host.buzz/*
 *://*.1018272.cn/*
@@ -775,6 +776,7 @@
 *://*.658990.com/*
 *://*.6591619.cn/*
 *://*.6633f.com/*
+*://*.6638739.com/*
 *://*.6639263.com/*
 *://*.66666kq.com/*
 *://*.66678yx.com/*
@@ -823,6 +825,7 @@
 *://*.7017886.com/*
 *://*.706qjdu.cn/*
 *://*.707o.com/*
+*://*.7117125.com/*
 *://*.71usrc.cn/*
 *://*.7200500.com/*
 *://*.720com.cn/*
@@ -836,6 +839,7 @@
 *://*.73ss.cn/*
 *://*.741963.com/*
 *://*.74koj8y.cn/*
+*://*.7511157.com/*
 *://*.755hunqing.com/*
 *://*.7609ix5.cn/*
 *://*.760cf.com/*
@@ -1426,6 +1430,7 @@
 *://*.bdrcmp.com/*
 *://*.bdsmzj.com/*
 *://*.bdtjbld.cn/*
+*://*.bduichenb.xyz/*
 *://*.bdzgd67.cn/*
 *://*.beach-talk.cn/*
 *://*.beamer-heimkino.buzz/*
@@ -5875,6 +5880,7 @@
 *://*.ttyiyuan.com/*
 *://*.ttzhufu.com/*
 *://*.tubu9.com/*
+*://*.tucaozhiyin.com/*
 *://*.tuconsultor.buzz/*
 *://*.tudou478.cn/*
 *://*.tudou56.com/*
@@ -6985,6 +6991,7 @@
 *://*.zhi07j8.cn/*
 *://*.zhijiad.com/*
 *://*.zhijiaw.com/*
+*://*.zhinengtoukui.com/*
 *://*.zhixinlu.com/*
 *://*.zhiyintucao.xyz/*
 *://*.zhj818.com/*

@@ -1,5 +1,6 @@
 *://*.0077851.com/*
 *://*.0077951.com/*
+*://*.1005711.com/*
 *://*.1565759.com/*
 *://*.1577195.com/*
 *://*.1579578.com/*
@@ -24,8 +25,11 @@
 *://*.6532055.com/*
 *://*.6532066.com/*
 *://*.6532077.com/*
+*://*.6638739.com/*
 *://*.7017886.com/*
+*://*.7117125.com/*
 *://*.7200500.com/*
+*://*.7511157.com/*
 *://*.7652525.com/*
 *://*.7661551.com/*
 *://*.7661552.com/*
@@ -39,6 +43,7 @@
 *://*.9900176.com/*
 *://*.acuolea.xyz/*
 *://*.bajiaoyingshi.com/*
+*://*.bduichenb.xyz/*
 *://*.bieguolaia.com/*
 *://*.bugelun.com/*
 *://*.caihongta.com/*
@@ -74,9 +79,11 @@
 *://*.ldkwi.top/*
 *://*.lehuotuan.com/*
 *://*.shenmedaquan.com/*
+*://*.tucaozhiyin.com/*
 *://*.txtlist.top/*
 *://*.xklbf.top/*
 *://*.yumaitie.com/*
+*://*.zhinengtoukui.com/*
 *://*.zhiyintucao.xyz/*
 *://*.zjkge.top/*
 *://*.zongmeimei.com/*
