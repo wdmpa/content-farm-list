@@ -1,2 +1,14 @@
+*://*.29fq.com/*
 *://*.4k8k.xyz/*
+*://62.234.115.194/*
+*://*.bbsmax.com/*
+*://*.carptrix.com/*
+*://*.codegrepper.com/*
+*://*.editcode.net/*
+*://*.i4k.xyz/*
+*://*.icode.best/*
+*://*.lianaiya.com/*
+*://*.likecs.com/*
+*://*.miaook.com/*
 *://*.shengqian001.com/*
+*://*.zditect.com/*

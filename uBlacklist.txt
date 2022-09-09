@@ -368,6 +368,7 @@
 *://*.294o0ly.cn/*
 *://*.29514.cn/*
 *://*.29534.cn/*
+*://*.29fq.com/*
 *://*.29gjj.com/*
 *://*.2a76grb.cn/*
 *://*.2ccumg6.cn/*
@@ -729,6 +730,7 @@
 *://*.60vjhou.cn/*
 *://*.617cq.com/*
 *://*.61uda9c.cn/*
+*://62.234.115.194/*
 *://*.6200wq.cn/*
 *://*.620386.com/*
 *://*.62az.cn/*
@@ -1370,6 +1372,7 @@
 *://*.baycen.cn/*
 *://*.baywearclothing.buzz/*
 *://*.bbmm123.com/*
+*://*.bbsmax.com/*
 *://*.bbt1688.com/*
 *://*.bbto.cc/*
 *://*.bbxyzs.com/*
@@ -1632,6 +1635,7 @@
 *://*.captivamortgage.buzz/*
 *://*.car-payment.cn/*
 *://*.car0559.com/*
+*://*.carptrix.com/*
 *://*.cartierwood.cn/*
 *://*.cartoluiza.buzz/*
 *://*.carucc.com/*
@@ -1811,6 +1815,7 @@
 *://*.cnsasj.com/*
 *://*.cnvbea.cn/*
 *://*.coddagn.cn/*
+*://*.codegrepper.com/*
 *://*.codenong.com/*
 *://*.codewdw.com/*
 *://*.coffee2tea.com/*
@@ -2223,6 +2228,7 @@
 *://*.econo-tax.buzz/*
 *://*.ecp567.com/*
 *://*.edchgo.cn/*
+*://*.editcode.net/*
 *://*.edithllp.cn/*
 *://*.edkdq3q.cn/*
 *://*.eds555.com/*
@@ -3163,6 +3169,7 @@
 *://*.i262.cn/*
 *://*.i2bau1.cn/*
 *://*.i2zldrj.cn/*
+*://*.i4k.xyz/*
 *://*.i4vages.buzz/*
 *://*.i5fbglp.cn/*
 *://*.i5ky8dh.cn/*
@@ -3184,6 +3191,7 @@
 *://*.ichunqing.com/*
 *://*.iclinking.com/*
 *://*.icnmall.com/*
+*://*.icode.best/*
 *://*.icplf.cn/*
 *://*.id0m3f.cn/*
 *://*.id528.com/*
@@ -3843,6 +3851,7 @@
 *://*.lhl8.cn/*
 *://*.lhz8.cn/*
 *://*.liamharrington.buzz/*
+*://*.lianaiya.com/*
 *://*.liangmir.cn/*
 *://*.lianyi0898.com/*
 *://*.lianyigcsl.com/*
@@ -3859,6 +3868,7 @@
 *://*.lightsources.cn/*
 *://*.lihengfur.com/*
 *://*.likebl.com/*
+*://*.likecs.com/*
 *://*.lilyid.com/*
 *://*.lindberg-import.buzz/*
 *://*.lingerieorless.buzz/*
@@ -4139,6 +4149,7 @@
 *://*.miaolaiche.com/*
 *://*.miaomu806.com/*
 *://*.miaomutv.com/*
+*://*.miaook.com/*
 *://*.miaoyun668.cn/*
 *://*.michaellakrajicek.buzz/*
 *://*.michaelszul.buzz/*
@@ -6840,6 +6851,7 @@
 *://*.zdccip.com/*
 *://*.zdes-film.com/*
 *://*.zdfaxhp.cn/*
+*://*.zditect.com/*
 *://*.ze7tpv2.cn/*
 *://*.zebh7.cn/*
 *://*.zectone.com/*
