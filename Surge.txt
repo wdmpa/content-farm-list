@@ -750,6 +750,7 @@
 .652951.com
 .652zh.cn
 .6532033.com
+.6532055.com
 .655dj.com
 .657981.com
 .658990.com
@@ -884,6 +885,7 @@
 .80jep4o.cn
 .8107778.com
 .8122700.com
+.8122900.com
 .81823333.com
 .81jmb.com
 .81jmqz.com
@@ -2404,6 +2406,9 @@
 .fciwifi.com
 .fdccpw.com
 .fdctop.cn
+.fdf30.com
+.fdf35.com
+.fdf48.com
 .fdjm99.com
 .fdmwcl4.cn
 .fdtwgg.com
@@ -2651,6 +2656,7 @@
 .glcq55s.cn
 .gldplus.com
 .glehe.com
+.glh5770.com
 .glhsmm.com
 .glhxrh.com
 .gln8fbe.cn
@@ -6971,6 +6977,7 @@
 .zjjbjjtq.com
 .zjjiangbei.com
 .zjjint.com
+.zjkge.top
 .zjlgyeda.com
 .zjlimin.com
 .zjs888.cn
