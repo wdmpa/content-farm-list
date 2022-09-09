@@ -684,6 +684,7 @@
 *://*.56dotour.buzz/*
 *://*.56dy56.cn/*
 *://*.56gouwu.com/*
+*://*.5712007.com/*
 *://*.572cq.com/*
 *://*.576nkp.cn/*
 *://*.586nwh.cn/*
@@ -823,6 +824,7 @@
 *://*.76likyx.cn/*
 *://*.7701238.com/*
 *://*.771k52p.cn/*
+*://*.7761551.com/*
 *://*.777enterprise.buzz/*
 *://*.782268.cn/*
 *://*.788woool.com/*
@@ -3392,6 +3394,7 @@
 *://*.jiaoziair.com/*
 *://*.jiaqi158.com/*
 *://*.jiashipei.com/*
+*://*.jiasuniao.com/*
 *://*.jiaxing668.cn/*
 *://*.jiazhidi.com/*
 *://*.jibv.cn/*
