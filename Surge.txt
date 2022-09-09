@@ -3,6 +3,7 @@
 .006xb.cn
 .007-security.buzz
 .0077851.com
+.0077951.com
 .007ly3e.cn
 .007sx.cn
 .0086cnc.com
@@ -218,6 +219,7 @@
 .151yutm.cn
 .1546805.cn
 .155.138.230.158
+.1565759.com
 .1577195.com
 .1579578.com
 .15888st.com
@@ -455,9 +457,11 @@
 .37orog3.cn
 .387u.com
 .388625.com
+.3955015.com
 .3955017.com
 .3985022.com
 .3990775.com
+.3997011.com
 .3997015.com
 .3adfo7.cn
 .3agtl2.cn
@@ -696,6 +700,7 @@
 .5712001.com
 .5712007.com
 .5722011.com
+.5722099.com
 .572cq.com
 .576nkp.cn
 .586nwh.cn
@@ -762,6 +767,8 @@
 .652zh.cn
 .6532033.com
 .6532055.com
+.6532066.com
+.6532077.com
 .655dj.com
 .657981.com
 .658990.com
@@ -832,6 +839,7 @@
 .7609ix5.cn
 .760cf.com
 .764pk.com
+.7652525.com
 .7661551.com
 .7661552.com
 .766km.cn
@@ -897,6 +905,7 @@
 .8084d.com
 .80jep4o.cn
 .8107778.com
+.8122300.com
 .8122700.com
 .8122800.com
 .8122900.com
@@ -919,6 +928,7 @@
 .8688news.com
 .86jzdd.com
 .86qg.cn
+.8712122.com
 .87ha60d.cn
 .88196833ox.com
 .88357vs.cn
@@ -2437,6 +2447,7 @@
 .fdf40.com
 .fdf43.com
 .fdf48.com
+.fdf50.com
 .fdf55.com
 .fdf59.com
 .fdjm99.com
@@ -2649,6 +2660,7 @@
 .gelanbao.cn
 .gene-therapeutix.buzz
 .gerecippower.buzz
+.gergj.top
 .getaoquan.com
 .gfart.cn
 .gfgyyq.com
@@ -5885,6 +5897,7 @@
 .txagr.com
 .txccc.cc
 .txeendx.buzz
+.txtlist.top
 .txy1996.com
 .ty52fo.cn
 .tybyaf.com
