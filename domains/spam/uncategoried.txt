@@ -13,3 +13,4 @@
 *://www.bbsmax.com/*
 *://www.miaook.com/*
 *://www.carptrix.com/*
+*://*.wandouip.com/*
