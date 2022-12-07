@@ -1,5 +1,6 @@
 .155.138.230.158
 .159.138.37.243
+.17bigdata.com
 .cxybb.com
 .cxydev.cc
 .cxygjd.com
@@ -15,3 +16,9 @@
 .its401.com
 .its404.com
 .its500.com
+.liweiliang.com
+.phpmianshi.com
+.qilin668.com
+.u72.net
+.zhangbj.com
+.zhuxianfei.com

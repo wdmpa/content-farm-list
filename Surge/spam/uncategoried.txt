@@ -11,4 +11,5 @@
 .likecs.com
 .miaook.com
 .shengqian001.com
+.wandouip.com
 .zditect.com
