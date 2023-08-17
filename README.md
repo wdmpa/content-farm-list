@@ -29,7 +29,7 @@ Google 中文搜索结果包含了相当一部分的内容农场式条目，比�
 或
 
 * `Name`: `content-farm-list`
-* `URL`: `https://wdmpa.org/content-farm-list/uBlacklist.txt`
+* `URL`: `https://wdmpa.eu.org/content-farm-list/uBlacklist.txt`
 
 单击 'Add' 按钮。
 
