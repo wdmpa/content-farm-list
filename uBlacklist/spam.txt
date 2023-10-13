@@ -243,6 +243,7 @@
 *://*.1753235.cn/*
 *://*.176buy.com/*
 *://*.178cj.com/*
+*://*.17bigdata.com/*
 *://*.17dhs.cn/*
 *://*.17fuyou.com/*
 *://*.17junlin.com/*
@@ -3962,6 +3963,7 @@
 *://*.livebroadcast.cn/*
 *://*.livefilestore.cn/*
 *://*.liveidc.cn/*
+*://*.liweiliang.com/*
 *://*.liyacxq.com/*
 *://*.liyazy.com/*
 *://*.lizardpoit.com/*
@@ -4724,6 +4726,7 @@
 *://*.photoproxi.buzz/*
 *://*.photosyu.com/*
 *://*.phphqc.cc/*
+*://*.phpmianshi.com/*
 *://*.phpqaw.cc/*
 *://*.phqyauh.cn/*
 *://*.phxgmy.com/*
@@ -4927,6 +4930,7 @@
 *://*.qifakeji.com/*
 *://*.qifuxuan.com/*
 *://*.qikan519.com/*
+*://*.qilin668.com/*
 *://*.qingkeyy.com/*
 *://*.qingshi8.cn/*
 *://*.qinianqing.com/*
@@ -5899,6 +5903,7 @@
 *://*.u4j2nj.cn/*
 *://*.u4paxdt.cn/*
 *://*.u6i6rao.cn/*
+*://*.u72.net/*
 *://*.u8nqbfs.cn/*
 *://*.ua648vk.cn/*
 *://*.uaelotto.buzz/*
@@ -6095,6 +6100,7 @@
 *://*.wan8cfd.cn/*
 *://*.wanaijiu.com/*
 *://*.wanda883.cn/*
+*://*.wandouip.com/*
 *://*.wangleju.com/*
 *://*.wangyanni.cn/*
 *://*.wangyou888.com/*
@@ -6931,6 +6937,7 @@
 *://*.zh-anyu.cn/*
 *://*.zhai168.cn/*
 *://*.zhandou666.cn/*
+*://*.zhangbj.com/*
 *://*.zhangyg.com/*
 *://*.zhao188.com/*
 *://*.zhaochq.com/*
@@ -6980,6 +6987,7 @@
 *://*.zhuohuisz.com/*
 *://*.zhuoweihr.com/*
 *://*.zhutigm.com/*
+*://*.zhuxianfei.com/*
 *://*.zhuxuekeji.com/*
 *://*.zhuyimei.cn/*
 *://*.zhwy360.com/*
