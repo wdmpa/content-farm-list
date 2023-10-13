@@ -13,3 +13,7 @@
 ## uncategoried.txt
 
 尚未分类的垃圾站点
+
+## vicious.txt
+
+恶意跳转第三方垃圾站

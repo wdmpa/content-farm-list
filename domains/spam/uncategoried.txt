@@ -14,5 +14,3 @@
 *://www.miaook.com/*
 *://www.carptrix.com/*
 *://*.wandouip.com/*
-*://*.thaicarvingknife.com/*
-*://thaicarvingknife.com/*
