@@ -1,2 +1,16 @@
 *://*.thaicarvingknife.com/*
 *://thaicarvingknife.com/*
+*://*.auxilia.space/*
+*://auxilia.space/*
+*://*.innovanti.online/*
+*://innovanti.online/*
+*://*.acceler8x.space/*
+*://acceler8x.space/*
+*://*.nexellia.online/*
+*://nexellia.online/*
+*://*.chromo.cfd/*
+*://chromo.cfd/*
+*://*.creatv.cfd/*
+*://creatv.cfd/*
+*://*.stylesprzedazy.pl/*
+*://stylesprzedazy.pl/*
