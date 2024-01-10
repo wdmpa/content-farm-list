@@ -1096,6 +1096,7 @@
 *://*.absolutequalitylimo.buzz/*
 *://*.abstriction.buzz/*
 *://*.academyagent.buzz/*
+*://*.acceler8x.space/*
 *://*.accentsgifts.buzz/*
 *://*.accidentlegalcenter.buzz/*
 *://*.accord-products.buzz/*
@@ -1341,6 +1342,7 @@
 *://*.autonetonline.buzz/*
 *://*.autotimeit.buzz/*
 *://*.auuur.com/*
+*://*.auxilia.space/*
 *://*.avenuetosuccess.buzz/*
 *://*.avkoc33.cn/*
 *://*.avzwbiv.cn/*
@@ -1791,6 +1793,7 @@
 *://*.chongwg4.com/*
 *://*.chq88.cn/*
 *://*.chqonline.com/*
+*://*.chromo.cfd/*
 *://*.chsou.cc/*
 *://*.chuanboye.com/*
 *://*.chuandaobj.com/*
@@ -1924,6 +1927,7 @@
 *://*.cqzxi9f.cn/*
 *://*.craftswomyn.buzz/*
 *://*.crawley-haskins.buzz/*
+*://*.creatv.cfd/*
 *://*.creditnavi.buzz/*
 *://*.crf8.cn/*
 *://*.crgsne3.cn/*
@@ -3324,6 +3328,7 @@
 *://*.inkworker.com/*
 *://*.inndulgehotel.buzz/*
 *://*.innerloop-prod.buzz/*
+*://*.innovanti.online/*
 *://*.innxm.com/*
 *://*.int.bet/*
 *://*.integratedpaperservice.buzz/*
@@ -4444,6 +4449,7 @@
 *://*.neworldbj.com/*
 *://*.newsflashtv.buzz/*
 *://*.newyimin.com/*
+*://*.nexellia.online/*
 *://*.nextnets.buzz/*
 *://*.nf91.cn/*
 *://*.nfajasi.cn/*
@@ -5571,6 +5577,7 @@
 *://*.stiqsxf.cn/*
 *://*.stmhxqs.com/*
 *://*.structcalc.buzz/*
+*://*.stylesprzedazy.pl/*
 *://*.subaidajs.com/*
 *://*.success666.com/*
 *://*.suchesgamountainrealestate.buzz/*
