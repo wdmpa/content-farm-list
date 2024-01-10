@@ -1,0 +1,6 @@
+*://*.anewhpworld.com/*
+*://*.buxcodes.org/*
+*://*.gameonmac.com/*
+*://*.pavlovadoco.com/*
+*://*.romonitorstats.com/*
+*://*.rtrack.social/*
