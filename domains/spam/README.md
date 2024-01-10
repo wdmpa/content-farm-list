@@ -1,3 +1,7 @@
+## ai-generated.txt
+
+人工智能生成的内容，通常是无意义和无用的
+
 ## cxyzjd.txt
 
 程序员宅基地/程序员ITS 系列站群
